@@ -3,29 +3,34 @@
 </h1>
 
 
+
+
+
+
+
 ## About Me  
-<small>Cybersecurity professional with experience in threat hunting, vulnerability management, SIEM operations (Splunk), risk assessment, and hands-on lab projects. Passionate about building practical solutions, contributing to the cybersecurity community, and exploring Elastic/SIEM engineering.</small>  
+<small>Cybersecurity professional with experience in threat hunting, vulnerability management, SIEM operations (Splunk,Microsoft Sentinel), risk assessment, and hands-on lab projects. Passionate about building practical solutions, contributing to the cybersecurity community, and exploring Elastic/SIEM engineering.</small>  
 
 
 ## Projects  
 - Threat Hunting
     - <small> **[Threat Event (Unauthorized TOR Usage)](https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md)** 
-    - <small> **[Building a SOC](https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md)**
-    - <small> **[Blue Team Junior Analyst](https://github.com/khadijahW/Flash028/blob/main/Blue%20Team%20Junior%20Analyst/SBT.md)**
     - <small> **[Threat Event (Microsoft Azure Breach)](https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md)**
     - <small> **[Threat Event (Suspicious-Russian-IP)](https://github.com/khadijahW/Flash028/blob/6c12c467d93374017641992eb9930adae24f12b0/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)**
     - <small> **[Threat Event (The Great Admin Heist)](https://github.com/khadijahW/Flash028/blob/c2d56f7d83ebc105145b3923b170fe8d1e64ca52/Cyber-Threat-Hunt.md)**
     - <small> **[Threat Event (Deep Acess: The Adversary)](https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md)**
+    - <small> **[Building a SOC](https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md)**
+    - <small> **[Blue Team Junior Analyst](https://github.com/khadijahW/Flash028/blob/main/Blue%20Team%20Junior%20Analyst/SBT.md)**
 - Vulnerability Management
   - <small> **[SonarQube & Snyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)**
   - <small> **[Vulnerability Management](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)**
   - <small> **[STIG Remediation's](https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md)**
 - Splunk
-  - <small>**[Splunk Enterprise Deployment Lab](Splunk/Splunk%20Enterprise%20Admin%20Lab.md)**</small><br>
-  - <small> **[Corelight Suricata](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**<br>
-  - <small> **[Splunk+AtomicRedTeam](https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md)**<br>
-- Python
-    - <small> **[File Integrity Tracker](https://github.com/khadijahW/Flash028/blob/732e0d757ec45e2814e7d6f678dc333b42770487/File-integrity-Tracker.md)**  
+  - <small> **[Splunk Enterprise Deployment Lab](Splunk/Splunk%20Enterprise%20Admin%20Lab.md)**</small><br>
+  - <small> **[Splunk Deployment Lab(LOADING)]**
+  - <small> **[Splunk Lab]**
+  - <small> **[Splunk Corelight Suricata](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**<br>
+  - <small> **[Splunk+AtomicRedTeam](https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md)**<br> 
 - IAM
     - <small> **[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)**  
     - <small> **[CyberArk PAM](https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md)**
@@ -38,7 +43,7 @@
 - Other
     - <small> **[Active Directory](https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md)**  
     - <small> **[Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)** <br>
-
+    - <small> **[Elastic StackLab(LOADING)]**
 <!--Github stats Table--> 
 <table width="100%">
   <tr>
@@ -70,7 +75,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KhadijahW&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="KhadijahW" style="padding-right:20px;" />
 </p>
-
 
 
 
@@ -106,7 +110,20 @@
         <img src="https://img.shields.io/badge/Cloud-CyberArk-blueviolet?style=flat-square"/>
       </td>
     </tr>
+    <tr>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Splunk_logo.svg/1200px-Splunk_logo.svg.png" width="50"/><br>
+    <b>Splunk Power User</b><br>
+    <img src="https://img.shields.io/badge/Splunk-Power%20User-brightgreen?style=flat-square"/>
+  </td>
+</tr>
   </table>
 </div>
+
+## 📈 How to Use This Repo
+- Click any lab/project to explore the README with commands, architecture diagrams, and sample queries.  
+- “LOADING” labs are **coming soon** and will be updated regularly.  
+- Use this as a portfolio to showcase **threat hunting, Splunk, IAM, and vulnerability management skills**.  
+
 
 

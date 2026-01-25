@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2ea44f&center=true&width=500&height=70&duration=2000&lines=Hello+Welcome!;I'm+Khadijah+aka+CyberFlash!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2ea44f&center=true&width=500&height=70&duration=2000&lines=Hello+Welcome!;I'm CyberFlash!" />
 </h1>
 
 

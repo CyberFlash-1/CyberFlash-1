@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2ea44f&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+Welcome!+;+I'm+Khadijah aka CyberFlash!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2ea44f&center=true&width=500&height=70&duration=2000&lines=Hello+Welcome!;I'm+Khadijah+aka+CyberFlash!" />
 </h1>
+
 
 ## About Me  
 <small>Cybersecurity professional with experience in threat hunting, vulnerability management, SIEM operations (Splunk), risk assessment, and hands-on lab projects. Passionate about building practical solutions, contributing to the cybersecurity community, and exploring Elastic/SIEM engineering.</small>  
@@ -20,7 +21,7 @@
   - <small> **[Vulnerability Management](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)**
   - <small> **[STIG Remediation's](https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md)**
 - Splunk
-  - <small> **[Splunk Enterprise Deployment Lab]()**<br>
+  - <small>**[Splunk Enterprise Deployment Lab](Splunk/Splunk%20Enterprise%20Admin%20Lab.md)**</small><br>
   - <small> **[Corelight Suricata](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**<br>
   - <small> **[Splunk+AtomicRedTeam](https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md)**<br>
 - Python

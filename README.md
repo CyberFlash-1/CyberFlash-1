@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=9B59B6&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
-</h1>
-
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF0000&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
+    
 
 
 ## About Me  

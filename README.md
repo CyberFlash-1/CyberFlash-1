@@ -85,8 +85,8 @@
 <tr>
   <!-- TOR -->
 <td width="20%" valign="top" style="padding-top: 50px; padding-bottom: 50px; padding-left: 50px; padding-right: 50px;">
-<a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md"><img src="https://github.com/khadijahW/Flash028/blob/2d261ca39bb3d7fc794ae3f35aa5da2ecea646de/IMAGES/Tor.png" style="width: 80%; height: 190px; object-fit: cover;/></a>
-<p><b><a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md">Threat Event (Unauthorized TOR Usage) </b></a></p>
+<a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md"><img src="https://github.com/khadijahW/Flash028/blob/2d261ca39bb3d7fc794ae3f35aa5da2ecea646de/IMAGES/Tor.png" style="width: 70%; height: 190px; object-fit: cover""/></a>
+<p><b><a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md"> Threat Event (Unauthorized TOR Usage) </b></a></p>
   
 <p>Threat Event (Unauthorized TOR Usage)<br/>
  
@@ -95,7 +95,7 @@
 
 <!-- Azure Breach-->
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md"><img src="https://github.com/khadijahW/Flash028/blob/3047fc5f8a75fd24170a5a3682abc5857d3e8bb6/IMAGES/Azure%20breach.png" style="width: 80%; height: 190px; object-fit: cover;""/></a>
+<a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md"><img src="https://github.com/khadijahW/Flash028/blob/3047fc5f8a75fd24170a5a3682abc5857d3e8bb6/IMAGES/Azure%20breach.png" style="width: 70%; height: 190px; object-fit: cover;""/></a>
 <p><b><a href="https://github.com/j12y/san-diego-streetlights">Threat Event (Microsoft Azure Breach)</b></a></p>
 <p>Threat Event (Microsoft Azure Breach)<br/>
 </p>
@@ -103,14 +103,14 @@
   </td>
 <!-- Threat Event (Adversary)-->
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md"><img src="https://github.com/user-attachments/assets/1d94b9fe-bd19-4e9a-b130-5dd7ffb2c4d5" style="width: 80%; height: 190px; object-fit: cover;""/></a>
+<a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md"><img src="https://github.com/user-attachments/assets/1d94b9fe-bd19-4e9a-b130-5dd7ffb2c4d5" style="width: 70%; height: 190px; object-fit: cover;""/></a>
 <p><b><a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md">Threat Event (Deep Acess: The Adversary)</b></a></p>
 <p>Threat Event (Deep Acess: The Adversary)<br/>
 </p>
 </td>
 <!-- The great admin heist-->
 <td width="20%"  valign="top" style="padding-top: 20px; padding-bottom: 50px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/khadijahW/Flash028/blob/c2d56f7d83ebc105145b3923b170fe8d1e64ca52/Cyber-Threat-Hunt.md"><img src="https://github.com/khadijahW/Flash028/blob/7bf41dd54b209449cf8081d1efba8d77304db695/IMAGES/Admin%20heist.png"  style="width: 80%; height: 190px; object-fit: cover;"" /></a>
+<a href="https://github.com/khadijahW/Flash028/blob/c2d56f7d83ebc105145b3923b170fe8d1e64ca52/Cyber-Threat-Hunt.md"><img src="https://github.com/khadijahW/Flash028/blob/7bf41dd54b209449cf8081d1efba8d77304db695/IMAGES/Admin%20heist.png"  style="width: 70%; height: 190px; object-fit: cover;"" /></a>
 <p><b><a href="https://github.com/khadijahW/Flash028/blob/c2d56f7d83ebc105145b3923b170fe8d1e64ca52/Cyber-Threat-Hunt.md">Threat Event (The Great Admin Heist)</b></a></p>
 <p>Threat Event (The Great Admin Heist)<br/>
 </p>

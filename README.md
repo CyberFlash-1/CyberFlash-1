@@ -96,7 +96,7 @@
 <!-- Azure Breach-->
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md"><img src="https://github.com/khadijahW/Flash028/blob/3047fc5f8a75fd24170a5a3682abc5857d3e8bb6/IMAGES/Azure%20breach.png" style="width: 80%; height: 170px; object-fit: cover;""/></a>
-<p><b><a href="https://github.com/j12y/san-diego-streetlights">Threat Event (Microsoft Azure Breach)</b></a></p>
+<p><b><a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md">Threat Event (Microsoft Azure Breach)</b></a></p>
 <p>Threat Event (Microsoft Azure Breach)<br/>
 </p>
 </td>

@@ -17,7 +17,7 @@
 <table width="75%">
 <tr>
   <!-- Splunk Enterprise Lab -->
-  <td width="25%" valign="top" style="padding: 20px; text-align: center;">
+  <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
     <a href="https://github.com/CyberFlash1/Flash028/blob/b275b509d39ff46fb9c7432daa8da922bb31d258/Splunk/Splunk%20Enterprise%20Admin%20Lab.md" target="_blank">
       <img src="https://github.com/CyberFlash1/Flash028/blob/8db593eba15323bfb0af3dd0e8e80b111a7cc915/Splunk/splunk%20enterprise%20lab.png" style="width: 120%; height: 200px; object-fit: cover;"/>
     </a>
@@ -25,7 +25,7 @@
   </td>
 
   <!-- Splunk + AtomicRedTeam -->
-  <td width="25%" valign="top" style="padding: 20px; text-align: center;">
+ <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
     <a href="https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md">
       <img src="https://github.com/user-attachments/assets/d6ac83ed-98cd-4072-ab0f-7e3a9a56b65b" style="width: 120%; height: 200px; object-fit: cover;"/>
     </a>
@@ -33,7 +33,7 @@
   </td>
 
   <!-- Splunk Corelight Suricata -->
-  <td width="25%" valign="top" style="padding: 20px; text-align: center;">
+ <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
     <a href="https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md">
       <img src="https://github.com/user-attachments/assets/2d4b4bd5-1278-41be-b434-2bec48ca3fe5" style="width: 120%; height: 200px; object-fit: cover;"/>
     </a>

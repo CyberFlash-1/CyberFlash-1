@@ -5,19 +5,14 @@
   &nbsp; &nbsp; &nbsp;
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF0000&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
-    
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=red,dark&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
+</h1>
 
 
-
-<small></small>  
-
-
-
-<div align="center">
   
-# Splunk 
-<div align="center">
+ $${{\color{Red}\huge{\textsf{Splunk Projects\ }}}}\$$
+
+---
 
 <div id="writing" align="center">
 <table width="75%">
@@ -49,46 +44,42 @@
 </table>
 </div>
 
-
-<table>
-<tr>
-
-
-# Additional Projects 
-
-<small> **[Building a SOC](https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md)**
-
-<small> **[Blue Team Junior Analyst](https://github.com/khadijahW/Flash028/blob/main/Blue%20Team%20Junior%20Analyst/SBT.md)**
-
-
-<small> **[SonarQube & Snyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)**
-
-<small> **[Vulnerability Management](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)**
-
-<small> **[STIG Remediation's](https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md)**
-
-<small> **[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)**  
-
-<small> **[CyberArk PAM](https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md)**
-
-<small> **[Sailpoint](https://github.com/khadijahW/Flash028/blob/aa96b8fcbe23d3048199ce38eaf18f5fb9c17ab1/Sailpoint-setup.md)**
-
-<small> **[Metasploit](https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md)**
-
-
-<small> **[MEOW](https://github.com/khadijahW/Flash028/blob/b3fee9ae5c337358f4d7f0f508a2ee7d3b90969a/HTB/Meow.md)**
-
-<small> **[FAWN](https://github.com/khadijahW/Flash028/blob/ebb244e076c7ee58bd544c8cbf1c9b14380715a3/HTB/FAWN.md)**
-
-<small> **[Active Directory](https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md)**  
-
-<small> **[Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)** <br>
+<div align="center">
+  
+ $${{\color{Red}\huge{\textsf{Additional Projects\ }}}}\$$
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td valign="top" width="50%" style="padding-right: 50px;">
+        <small>
+          <a href="https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md">Building a SOC</a><br>
+          <a href="https://github.com/khadijahW/Flash028/blob/main/Blue%20Team%20Junior%20Analyst/SBT.md">Blue Team Junior Analyst</a><br>
+          <a href="https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md">SonarQube & Snyk Lab</a><br>
+          <a href="https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md">Vulnerability Management</a><br>
+          <a href="https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md">STIG Remediations</a>
+        </small>
+      </td>
+      <td valign="top" width="50%" style="padding-left: 50px;">
+        <small>
+          <a href="https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md">Okta IAM</a><br>
+          <a href="https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md">CyberArk PAM</a><br>
+          <a href="https://github.com/khadijahW/Flash028/blob/aa96b8fcbe23d3048199ce38eaf18f5fb9c17ab1/Sailpoint-setup.md">Sailpoint</a><br>
+          <a href="https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md">Metasploit</a><br>
+          <a href="https://github.com/khadijahW/Flash028/blob/b3fee9ae5c337358f4d7f0f508a2ee7d3b90969a/HTB/Meow.md">MEOW</a><br>
+          <a href="https://github.com/khadijahW/Flash028/blob/ebb244e076c7ee58bd544c8cbf1c9b14380715a3/HTB/FAWN.md">FAWN</a><br>
+          <a href="https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md">Active Directory</a><br>
+          <a href="https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md">Azure Cloud Resume</a>
+        </small>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
+ 
 
-
-# Threat Hunting 
+ $${{\color{Red}\huge{\textsf{Threat Events\ }}}}\$$
 <div id="gallery">
 <div align="center">
 <table width="20%">

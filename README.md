@@ -12,7 +12,7 @@
   
  $${{\color{Red}\huge{\textsf{Splunk Projects\ }}}}\$$
 
-
+<div id="gallery">
 <div id="writing" align="center">
 <table width="75%">
 <tr>

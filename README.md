@@ -1,3 +1,9 @@
+<div id="social" align="center">
+  <a href="https://www.linkedin.com/in/KhadijahW/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="@jaysondelancey on LinkedIn"/></a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="http://youtube.com/@Cyberflash-1" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="@j12y on YouTube"/></a>
+  &nbsp; &nbsp; &nbsp;
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF0000&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
     
@@ -6,14 +12,6 @@
 ## About Me  
 <small>Cybersecurity professional with experience in threat hunting, vulnerability management, SIEM operations (Splunk,Microsoft Sentinel), risk assessment, and hands-on lab projects. Passionate about building practical solutions, contributing to the cybersecurity community, and exploring Elastic/SIEM engineering.</small>  
 
-
-
-<div id="social" align="center">
-  <a href="https://www.linkedin.com/in/KhadijahW/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="@jaysondelancey on LinkedIn"/></a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="http://youtube.com/@Cyberflash-1" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="@j12y on YouTube"/></a>
-  &nbsp; &nbsp; &nbsp;
-</div>
 
 
 <div align="center">

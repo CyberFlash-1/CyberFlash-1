@@ -103,7 +103,7 @@
   </td>
 <!-- Threat Event (Adversary)-->
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md"><img src="https://github.com/user-attachments/assets/1d94b9fe-bd19-4e9a-b130-5dd7ffb2c4d5" style="width: 70%; height: 190px; object-fit: cover;""/></a>
+<a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md"><img src="https://github.com/user-attachments/assets/1d94b9fe-bd19-4e9a-b130-5dd7ffb2c4d5" style="width: 80%; height: 150px; object-fit: cover;""/></a>
 <p><b><a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md">Threat Event (Deep Acess: The Adversary)</b></a></p>
 <p>Threat Event (Deep Acess: The Adversary)<br/>
 </p>

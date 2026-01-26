@@ -9,8 +9,8 @@
     
 
 
-## About Me  
-<small>Cybersecurity professional with experience in threat hunting, vulnerability management, SIEM operations (Splunk,Microsoft Sentinel), risk assessment, and hands-on lab projects. Passionate about building practical solutions, contributing to the cybersecurity community, and exploring Elastic/SIEM engineering.</small>  
+
+<small></small>  
 
 
 

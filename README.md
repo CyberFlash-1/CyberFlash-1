@@ -1,5 +1,5 @@
 <div id="social" align="center">
-  <a href="https://www.linkedin.com/in/KhadijahW/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="@jaysondelancey on LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/khadijah-w-44bb48238" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="@jaysondelancey on LinkedIn"/></a>
   &nbsp; &nbsp; &nbsp;
   <a href="http://youtube.com/@Cyberflash-1" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="@j12y on YouTube"/></a>
   &nbsp; &nbsp; &nbsp;

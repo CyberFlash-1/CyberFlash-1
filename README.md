@@ -12,6 +12,38 @@
   
  $${{\color{Red}\huge{\textsf{Splunk Projects\ }}}}\$$
 
+
+<div id="gallery">
+<div id="writing" align="center">
+<table width="100%">
+<tr>
+
+
+  <!-- Splunk Enterprise Deployment Lab-->
+  <td width="30%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+    <a href="https://github.com/CyberFlash-1/Flash028/blob/9a83c8157c7b4a8e5c44839dd4534836f27694a1/Splunk/Full%20Splunk%20Enterprise%20Deployment%20Lab.md" target="_blank">
+      <img src="https://github.com/CyberFlash-1/Flash028/blob/e0f02ee44af691681fe8ddac7590adc28a12b1fb/IMAGES/Enterprise%20Dployment.png" style="width:700%; height: 400px; object-fit: cover;"/>
+    </a>
+    <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/9a83c8157c7b4a8e5c44839dd4534836f27694a1/Splunk/Full%20Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</a></b></p>
+  </td>
+
+  <!-- Splunk Architecture Deployment  Lab
+  <td width="30%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+    <a href="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/Splunk/Architecting%20Splunk%20Scenario.md" target="_blank">
+      <img src="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/IMAGES/Phase%201.png" style="width: 400%; height: 400px; object-fit: cover;"/>
+    </a>
+    <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Architecture Deployment Lab</a></b></p>
+  </td>
+  -->
+</tr>
+</tr>
+</table>
+</div>
+
+
+
+ 
+
 <div id="gallery">
 <div id="writing" align="center">
 <table width="100%">
@@ -24,29 +56,6 @@
     <p><b><a href="https://github.com/CyberFlash1/Flash028/blob/b275b509d39ff46fb9c7432daa8da922bb31d258/Splunk/Splunk%20Enterprise%20Admin%20Lab.md">Splunk Basic Enterprise Lab</a></b></p>
   </td>
 
-  <!-- Splunk Enterprise Deployment Lab-->
-  <td width="30%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-    <a href="https://github.com/CyberFlash-1/Flash028/blob/9a83c8157c7b4a8e5c44839dd4534836f27694a1/Splunk/Full%20Splunk%20Enterprise%20Deployment%20Lab.md" target="_blank">
-      <img src="https://github.com/CyberFlash-1/Flash028/blob/e0f02ee44af691681fe8ddac7590adc28a12b1fb/IMAGES/Enterprise%20Dployment.png" style="width: 120%; height: 200px; object-fit: cover;"/>
-    </a>
-    <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/9a83c8157c7b4a8e5c44839dd4534836f27694a1/Splunk/Full%20Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</a></b></p>
-  </td>
-  
-
-  <!-- Splunk Architecture Deployment  Lab-->
-  <td width="30%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-    <a href="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/Splunk/Architecting%20Splunk%20Scenario.md" target="_blank">
-      <img src="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/IMAGES/Phase%201.png" style="width: 120%; height: 200px; object-fit: cover;"/>
-    </a>
-    <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Architecture Deployment Lab</a></b></p>
-  </td>
-</tr>
-</table>
-
-</div>
-<div id="gallery">
-<div id="writing" align="center">
-<table width="75%">
 
   <!-- Splunk + AtomicRedTeam -->
  <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">

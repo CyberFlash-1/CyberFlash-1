@@ -14,7 +14,7 @@
 
 <div id="gallery">
 <div id="writing" align="center">
-<table width="75%">
+<table width="100%">
 <tr>
   <!-- Splunk Basic Enterprise Lab -->
   <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
@@ -31,24 +31,27 @@
     </a>
     <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/9a83c8157c7b4a8e5c44839dd4534836f27694a1/Splunk/Full%20Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</a></b></p>
   </td>
+  
 
   <!-- Splunk Architecture Deployment  Lab-->
   <td width="30%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
     <a href="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/Splunk/Architecting%20Splunk%20Scenario.md" target="_blank">
       <img src="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/IMAGES/Phase%201.png" style="width: 120%; height: 200px; object-fit: cover;"/>
     </a>
-    <p><b><a href="hhttps://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Architecture Deployment Lab</a></b></p>
+    <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Architecture Deployment Lab</a></b></p>
   </td>
+</tr>
+</table>
 
-
-
-
-
+</div>
+<div id="gallery">
+<div id="writing" align="center">
+<table width="75%">
 
   <!-- Splunk + AtomicRedTeam -->
  <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
     <a href="https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md">
-      <img src="https://github.com/user-attachments/assets/d6ac83ed-98cd-4072-ab0f-7e3a9a56b65b" style="width: 120%; height: 200px; object-fit: cover;"/>
+      <img src="https://github.com/user-attachments/assets/d6ac83ed-98cd-4072-ab0f-7e3a9a56b65b" style="width: 75%; height: 200px; object-fit: cover;"/>
     </a>
     <p><b><a href="https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md">Splunk + AtomicRedTeam</a></b></p>
   </td>
@@ -56,13 +59,37 @@
   <!-- Splunk Corelight Suricata -->
  <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
     <a href="https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md">
-      <img src="https://github.com/user-attachments/assets/2d4b4bd5-1278-41be-b434-2bec48ca3fe5" style="width: 120%; height: 200px; object-fit: cover;"/>
+      <img src="https://github.com/user-attachments/assets/2d4b4bd5-1278-41be-b434-2bec48ca3fe5" style="width: 75%; height: 200px; object-fit: cover;"/>
     </a>
     <p><b><a href="https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md">Splunk Corelight Suricata</a></b></p>
   </td>
 </tr>
 </table>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   

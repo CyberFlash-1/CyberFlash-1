@@ -1,4 +1,4 @@
- $${{\color{Red}\huge{\textsf{Splunk Projects\ }}}}\$$
+ $${{\color{Red}\huge{\textsf{Splunk Enterprise Deployment Lab\ }}}}\$$
 
 
 <div id="gallery">

@@ -54,24 +54,30 @@
 
 <div id="gallery">
 <div align="center">
-<table width="75%">
+<table width="100%">
 <tr>
-<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md"><img width="200" height="250" src ="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Tor.png" /></a>
 <p><b><a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md">Threat Event: Unauthorized TOR Usage </b></a></p>
 
-<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md"><img width="600" height="1200" src ="https://github.com/user-attachments/assets/1d94b9fe-bd19-4e9a-b130-5dd7ffb2c4d5" /></a>
 <p><b><a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md">Threat Event: Deep Access – The Adversary</b></a></p>
   
-<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Admin%20heist.png" /></a>
-<p><b><a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md">Threat Event: Microsoft Azure Breach</b></a></p>
+<p><b><a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md">Threat Event: The Great Admin Heist</b></a></p>
 
-<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <a href="https://github.com/j12y/predix-volcano-app"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Azure%20breach.png" /></a>
-<p><b><a href="https://github.com/j12y/predix-volcano-app">Splunk Architecture Lab</b></a></p>
+<p><b><a href="https://github.com/j12y/predix-volcano-app">Threat Event: Microsoft Azure Breach</b></a></p>
 </td>
+
+<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/russian%20ip.png"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/russian%20ip.png" /></a>
+<p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/russian%20ip.png">Threat Event: Microsoft Azure Breach</b></a></p>
+</td>
+
 </td>
 </td>
 

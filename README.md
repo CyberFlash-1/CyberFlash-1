@@ -40,45 +40,36 @@
 <!--New -->
 <div align="center">
 
-### Additional Projects 
 
-**[Threat Event: Unauthorized TOR Usage](https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md)**
+##  Splunk
+**[Splunk Corelight / Suricata (BOTS)](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**
 
-**[Threat Event: Microsoft Azure Breach](https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md)**
+**[Splunk + Atomic Red Team](https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md)**
 
-**[Threat Event: Suspicious Activity from Russian IP](https://github.com/khadijahW/Flash028/blob/6c12c467d93374017641992eb9930adae24f12b0/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)**
 
-**[Threat Event: The Great Admin Heist](https://github.com/khadijahW/Flash028/blob/c2d56f7d83ebc105145b3923b170fe8d1e64ca52/Cyber-Threat-Hunt.md)**
-
-**[Threat Event: Deep Access – The Adversary](https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md)**
-
-**[Building a SOC](https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md)**
-
-**[Blue Team Junior Analyst Lab](https://github.com/khadijahW/Flash028/blob/main/Blue%20Team%20Junior%20Analyst/SBT.md)**
-</div>
 
 <div align="center">
   
-## 🚀 Threat Hunting
+##  Threat Hunting
 
 <div id="gallery">
 <div align="center">
 <table width="75%">
 <tr>
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md"><img width="600" height="600" src ="https://github.com/user-attachments/assets/d6ac83ed-98cd-4072-ab0f-7e3a9a56b65b" /></a>
+<a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md"><img width="200" height="250" src ="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Tor.png" /></a>
 <p><b><a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md">Threat Event: Unauthorized TOR Usage </b></a></p>
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md"><img width="200" height="150" src ="https://github.com/user-attachments/assets/1d94b9fe-bd19-4e9a-b130-5dd7ffb2c4d5" /></a>
+<a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md"><img width="600" height="1200" src ="https://github.com/user-attachments/assets/1d94b9fe-bd19-4e9a-b130-5dd7ffb2c4d5" /></a>
 <p><b><a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md">Threat Event: Deep Access – The Adversary</b></a></p>
   
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/j12y/predix-volcano-app"><img width="858" height="600" alt="Phase" src="https://github.com/user-attachments/assets/9686456c-034e-421d-b9f0-f45fa82225c5" /></a>
-<p><b><a href="https://github.com/j12y/predix-volcano-app">Splunk Architecture Lab</b></a></p>
+<a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Admin%20heist.png" /></a>
+<p><b><a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md">Threat Event: Microsoft Azure Breach</b></a></p>
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/j12y/predix-volcano-app"><img width="858" height="600" alt="Phase" src="https://github.com/user-attachments/assets/9686456c-034e-421d-b9f0-f45fa82225c5" /></a>
+<a href="https://github.com/j12y/predix-volcano-app"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Azure%20breach.png" /></a>
 <p><b><a href="https://github.com/j12y/predix-volcano-app">Splunk Architecture Lab</b></a></p>
 </td>
 </td>
@@ -108,13 +99,7 @@
 **[Vulnerability Assessment](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)**
 
 **[STIG Remediations](https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md)**
-###  Splunk
 
-**[Splunk Enterprise Deployment Lab](Splunk/Splunk%20Enterprise%20Admin%20Lab.md)**
-
-**[Splunk Corelight / Suricata (BOTS)](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**
-
-**[Splunk + Atomic Red Team](https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md)**
 ### Identity & Access Management (IAM)
 **[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)**
 

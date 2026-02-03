@@ -32,7 +32,13 @@
     <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/9a83c8157c7b4a8e5c44839dd4534836f27694a1/Splunk/Full%20Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</a></b></p>
   </td>
 
-
+  <!-- Splunk Architecture Deployment  Lab-->
+  <td width="30%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+    <a href="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/Splunk/Architecting%20Splunk%20Scenario.md" target="_blank">
+      <img src="https://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/IMAGES/Phase%201.png" style="width: 120%; height: 200px; object-fit: cover;"/>
+    </a>
+    <p><b><a href="hhttps://github.com/CyberFlash-1/Flash028/blob/da65f197e62075814b62021943259e18f9ec32f3/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Architecture Deployment Lab</a></b></p>
+  </td>
 
 
 

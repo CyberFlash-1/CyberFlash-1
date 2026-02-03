@@ -16,13 +16,28 @@
 <div id="writing" align="center">
 <table width="75%">
 <tr>
-  <!-- Splunk Enterprise Lab -->
+  <!-- Splunk Basic Enterprise Lab -->
   <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
     <a href="https://github.com/CyberFlash1/Flash028/blob/b275b509d39ff46fb9c7432daa8da922bb31d258/Splunk/Splunk%20Enterprise%20Admin%20Lab.md" target="_blank">
       <img src="https://github.com/CyberFlash1/Flash028/blob/8db593eba15323bfb0af3dd0e8e80b111a7cc915/Splunk/splunk%20enterprise%20lab.png" style="width: 120%; height: 200px; object-fit: cover;"/>
     </a>
     <p><b><a href="https://github.com/CyberFlash1/Flash028/blob/b275b509d39ff46fb9c7432daa8da922bb31d258/Splunk/Splunk%20Enterprise%20Admin%20Lab.md">Splunk Enterprise Lab</a></b></p>
   </td>
+
+  <!-- Splunk Enterprise Deployment Lab-->
+  <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+    <a href="https://github.com/CyberFlash1/Flash028/blob/b275b509d39ff46fb9c7432daa8da922bb31d258/Splunk/Splunk%20Enterprise%20Admin%20Lab.md" target="_blank">
+      <img src="https://github.com/CyberFlash1/Flash028/blob/8db593eba15323bfb0af3dd0e8e80b111a7cc915/Splunk/splunk%20enterprise%20lab.png" style="width: 120%; height: 200px; object-fit: cover;"/>
+    </a>
+    <p><b><a href="https://github.com/CyberFlash1/Flash028/blob/b275b509d39ff46fb9c7432daa8da922bb31d258/Splunk/Splunk%20Enterprise%20Admin%20Lab.md">Splunk Enterprise Lab</a></b></p>
+  </td>
+
+
+
+
+
+
+
 
   <!-- Splunk + AtomicRedTeam -->
  <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">

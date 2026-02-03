@@ -1,8 +1,12 @@
 <div id="social" align="center">
   <a href="https://www.linkedin.com/in/khadijah-w-44bb48238" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="@jaysondelancey on LinkedIn"/></a>
   &nbsp; &nbsp; &nbsp;
-  <a href="http://youtube.com/@Cyberflash-1" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="@j12y on YouTube"/></a>
+  <a href="http://youtube.com/@Cyberflash-1" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="@CyberFlash-1 on YouTube"/></a>
   &nbsp; &nbsp; &nbsp;
+   <a href="http://youtube.com/@Cyberflash-1" target="_blank"><img src="https://komarev.com/ghpvc/?username=KhadijahW&label=Profile%20views&logoColor=white" alt="KhadijahW"/></a>
+  &nbsp; &nbsp; &nbsp;
+  <!--Profile Count Badge-->
+
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=red,dark&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
@@ -15,17 +19,17 @@
 
 <div id="gallery">
 <div align="center">
-<table width="75%">
+<table width="100%">
 <tr>
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/j12y/predix-volcano-app"> <img width="1058" height="600" alt="deployment" src="https://github.com/user-attachments/assets/5fb759df-167a-4c74-94a2-c01eb014a974" /></a>
+<a href="https://github.com/j12y/predix-volcano-app"> <img width="458" height="600" alt="deployment" src="https://github.com/user-attachments/assets/5fb759df-167a-4c74-94a2-c01eb014a974" /></a>
 <p><b><a href="https://github.com/j12y/predix-volcano-app">SPlunk Enterprise Deployment Lab</b></a></p>
 
 </td>
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/j12y/predix-volcano-app"><img width="858" height="600" alt="Phase" src="https://github.com/user-attachments/assets/9686456c-034e-421d-b9f0-f45fa82225c5" /></a>
+<a href="https://github.com/j12y/predix-volcano-app"><img width="458" height="300" alt="Phase" src="https://github.com/user-attachments/assets/9686456c-034e-421d-b9f0-f45fa82225c5" /></a>
 <p><b><a href="https://github.com/j12y/predix-volcano-app">Splunk Architecture Lab</b></a></p>
 </td>
 
@@ -35,6 +39,26 @@
 </div>
 <!--New -->
 <div align="center">
+
+### Additional Projects 
+
+**[Threat Event: Unauthorized TOR Usage](https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md)**
+
+**[Threat Event: Microsoft Azure Breach](https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md)**
+
+**[Threat Event: Suspicious Activity from Russian IP](https://github.com/khadijahW/Flash028/blob/6c12c467d93374017641992eb9930adae24f12b0/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)**
+
+**[Threat Event: The Great Admin Heist](https://github.com/khadijahW/Flash028/blob/c2d56f7d83ebc105145b3923b170fe8d1e64ca52/Cyber-Threat-Hunt.md)**
+
+**[Threat Event: Deep Access – The Adversary](https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md)**
+
+**[Building a SOC](https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md)**
+
+**[Blue Team Junior Analyst Lab](https://github.com/khadijahW/Flash028/blob/main/Blue%20Team%20Junior%20Analyst/SBT.md)**
+</div>
+
+<div align="center">
+  
 ## 🚀 Threat Hunting
 
 <div id="gallery">
@@ -68,24 +92,14 @@
 </table>
 </div>
 
+
 <div align="center">
 
-Additional Projects 
 
-### Threat Hunting
-**[Threat Event: Unauthorized TOR Usage](https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md)**
+<div align="center">
 
-**[Threat Event: Microsoft Azure Breach](https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md)**
 
-**[Threat Event: Suspicious Activity from Russian IP](https://github.com/khadijahW/Flash028/blob/6c12c467d93374017641992eb9930adae24f12b0/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)**
-
-**[Threat Event: The Great Admin Heist](https://github.com/khadijahW/Flash028/blob/c2d56f7d83ebc105145b3923b170fe8d1e64ca52/Cyber-Threat-Hunt.md)**
-
-**[Threat Event: Deep Access – The Adversary](https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md)**
-
-**[Building a SOC](https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md)**
-
-**[Blue Team Junior Analyst Lab](https://github.com/khadijahW/Flash028/blob/main/Blue%20Team%20Junior%20Analyst/SBT.md)**
+<div align="center">
 
 ### Vulnerability Management
 
@@ -123,7 +137,4 @@ Additional Projects
 
 </div>
 <br>
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KhadijahW&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="KhadijahW" style="padding-right:20px;" />
-</p>
+

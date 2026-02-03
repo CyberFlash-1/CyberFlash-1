@@ -14,20 +14,33 @@
 
 
 <div id="gallery">
-<div id="writing" align="center">
-<table width="100%">
+<div align="center">
+<table width="75%">
 <tr>
 
+<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<a href="https://github.com/j12y/predix-volcano-app"> <img width="1058" height="632" alt="deployment" src="https://github.com/user-attachments/assets/5fb759df-167a-4c74-94a2-c01eb014a974" /></a>
+<p><b><a href="https://github.com/j12y/predix-volcano-app">predix-volcano-app</b></a></p>
+   <a href="https://github.com/j12y?tab=repositories&q=topic%3Agithub-gallery&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/github--gallery-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Aanalytics&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/analytics-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Aflask&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/flask-blue?style=pill"/></a>  <a href="https://github.com/j12y?tab=repositories&q=topic%3Acom-ge&type=&language=&sort=stargazers"><img src="https://img.shields.io/badge/com--ge-blue?style=pill"/></a> 
+</td>
 
-  <!-- Splunk Enterprise Deployment Lab-->
-  <td width="30%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-    <a href="https://github.com/CyberFlash-1/Flash028/blob/9a83c8157c7b4a8e5c44839dd4534836f27694a1/Splunk/Full%20Splunk%20Enterprise%20Deployment%20Lab.md" target="_blank">
-      <img src="https://github.com/CyberFlash-1/Flash028/blob/e0f02ee44af691681fe8ddac7590adc28a12b1fb/IMAGES/Enterprise%20Dployment.png" style="width:700%; height: 400px; object-fit: cover;"/>
-    </a>
-    <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/9a83c8157c7b4a8e5c44839dd4534836f27694a1/Splunk/Full%20Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</a></b></p>
-  </td>
+
+
+<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<a href="https://github.com/j12y/predix-volcano-app"><img width="927" height="647" alt="Phase" src="https://github.com/user-attachments/assets/9686456c-034e-421d-b9f0-f45fa82225c5" /></a>
+<p><b><a href="https://github.com/j12y/predix-volcano-app">predix-volcano-app</b></a></p>
+</td>
+
+<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<a href="https://github.com/j12y/predix-volcano-app"><img src="https://repository-images.githubusercontent.com/98841685/16b86d08-cbf3-4f1f-ba8e-c68ae4dc95b9"/></a>
+<p><b><a href="https://github.com/j12y/predix-volcano-app">predix-volcano-app</b></a></p>
+</td>
+
 
 </tr>
+
+<tr>
+
 </tr>
 </table>
 </div>

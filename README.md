@@ -25,7 +25,7 @@
   </td>
 
   <!-- Splunk Enterprise Deployment Lab-->
-  <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+  <td width="30%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
     <a href="https://github.com/CyberFlash1/Flash028/blob/b275b509d39ff46fb9c7432daa8da922bb31d258/Splunk/Splunk%20Enterprise%20Admin%20Lab.md" target="_blank">
       <img src="https://github.com/CyberFlash-1/Flash028/blob/e0f02ee44af691681fe8ddac7590adc28a12b1fb/IMAGES/Enterprise%20Dployment.png" style="width: 120%; height: 200px; object-fit: cover;"/>
     </a>

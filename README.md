@@ -14,7 +14,7 @@
 
 
   
- $${{\color{Red}\huge{\textsf{Splun k Projects\ }}}}\$$
+ $${{\color{Red}\huge{\textsf{Splunk Projects\ }}}}\$$
 
 
 <div id="gallery">

@@ -137,3 +137,30 @@
 </div>
 <br>
 
+### SIEM & Detection Engineering
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Detection_Engineering-512DA8?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL_Rule_Creation-1A237E?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-283593?&style=for-the-badge&logo=bell&logoColor=white" />
+</div>
+
+### Incident Response
+<div>
+    <img src="https://img.shields.io/badge/-Incident_Response_Playbooks-00695C?&style=for-the-badge&logo=opsgenie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Timeline_Analysis-004D40?&style=for-the-badge&logo=clockify&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Containment_&_Remediation-1B5E20?&style=for-the-badge&logo=shield&logoColor=white" />
+</div>
+
+### Endpoint 
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Trellix-263238?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Process_&_File_Analysis-37474F?&style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</div>
+
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vulnerability_Assessment-33691E?&style=for-the-badge&logo=bugcrowd&logoC_
+

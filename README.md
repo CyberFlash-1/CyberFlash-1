@@ -9,12 +9,12 @@
 
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=red,dark&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=Purple&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
 </h1>
 
 
   
- $${{\color{Red}\huge{\textsf{Splunk Projects\ }}}}\$$
+ $${{\color{White}\huge{\textsf{Splunk Projects\ }}}}\$$
 
 
 <div id="gallery">
@@ -51,8 +51,6 @@
 <!--New -->
 <div align="center">
 
-
-##  Splunk
 
 **[Splunk Corelight / Suricata (BOTS)](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**
 

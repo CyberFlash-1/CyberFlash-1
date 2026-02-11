@@ -29,8 +29,8 @@
 </td>
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md"><img width="458" height="300" alt="Phase" src="https://github.com/user-attachments/assets/9686456c-034e-421d-b9f0-f45fa82225c5" /></a>
-<p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Enterprise Deployment Lab (Part 2)</b></a></p>
+<a href=""><img width="458" height="300" alt="Phase" src="https://github.com/user-attachments/assets/9686456c-034e-421d-b9f0-f45fa82225c5" /></a>
+<p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Enterprise Deployment Lab (Part 2)- LOADING</b></a></p>
 </td>
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
@@ -40,8 +40,8 @@
 </td>
 
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md"><img width="458" height="300" alt="Phase" src="https://github.com/user-attachments/assets/9686456c-034e-421d-b9f0-f45fa82225c5" /></a>
-<p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Enterprise Security</b></a></p>
+<a href=""><img width="458" height="300" alt="Phase" src="https://github.com/user-attachments/assets/9686456c-034e-421d-b9f0-f45fa82225c5" /></a>
+<p><b><a href="">Splunk Enterprise Security LOADING</b></a></p>
 </td>
 
 <tr>

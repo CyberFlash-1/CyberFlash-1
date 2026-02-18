@@ -171,5 +171,7 @@
 ### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vulnerability_Assessment-33691E?&style=for-the-badge&logo=bugcrowd&logoC_
-
+    <img src="https://img.shields.io/badge/-Vulnerability_Assessment-33691E?&style=for-the-badge&logo=bugcrowd&logoC_ "/>
+  
+### Youtube Videos
+[Sailpoint Installation](https://www.youtube.com/watch?v=_3PzurBS2Ok)

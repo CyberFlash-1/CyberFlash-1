@@ -7,6 +7,11 @@
   &nbsp; &nbsp; &nbsp;
   <!--Profile Count Badge-->
 
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=FF6600)
+
+
+
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=Purple&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
@@ -35,8 +40,9 @@
 
 
 
+
 <td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href=""><img width="1590" height="1065" alt="created field extractions" src="https://github.com/user-attachments/assets/6bba6614-c0a9-4931-b215-74d4ab4d3a8f" /></a>
+<a href=""><img width="1312" height="784" alt="image" src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" /></a>
 <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Enterprise Deployment Lab (Part 2)- LOADING</b></a></p>
 </td>
 

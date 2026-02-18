@@ -1,15 +1,9 @@
+
 <div id="social" align="center">
-  <a href="https://www.linkedin.com/in/khadijah-w-44bb48238" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="@jaysondelancey on LinkedIn"/></a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="http://youtube.com/@Cyberflash-1" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="@CyberFlash-1 on YouTube"/></a>
-  &nbsp; &nbsp; &nbsp;
    <a href="http://youtube.com/@Cyberflash-1" target="_blank"><img src="https://komarev.com/ghpvc/?username=KhadijahW&label=Profile%20views&logoColor=white" alt="KhadijahW"/></a>
   &nbsp; &nbsp; &nbsp;
+  
   <!--Profile Count Badge-->
-
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=FF6600)
-
 
 
 </div>
@@ -17,66 +11,123 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=Purple&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
 </h1>
 
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
+        <img src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" width="100%" alt="Unlock the Voice of PDF">
+      </a>
+        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
+    </td>
+    <td>
+      <a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">
+        <img src="https://github.com/user-attachments/assets/5cd96e7a-40ba-4e4f-9819-5abbd4d06f08" width="100%" alt="Document Interface">
+      </a>
+      <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><strong>Welcome to 'Document Whispers',</strong> the future of document interaction. This modern web application transforms how you engage with your PDFs by allowing you to upload documents and chat directly with them. Powered by the cutting-edge Vercel AI SDK, 'Document Whispers' provides blazing-fast AI responses, making it your go-to tool for quick answers to assignments and research inquiries.</p>
+      <p>Our platform not only lets you read documents as you interact with them, but also ensures that your queries are thoroughly analyzed to provide high-quality, well-researched answers. Leveraging the largest and most advanced language models, our generative AI digs deep into your questions, offering precise and insightful responses.</p>
+      <p>Built on robust serverless technology for seamless performance and protected by Clerk for top-tier authentication, 'Document Whispers' is continually evolving. Stay tuned for more innovative features that will redefine your document handling experience!</p>
+    </td>
+  </tr>
+</table>
+
 [![Critical](https://img.shields.io/badge/Urgency-Critical-d93f3c)](#critical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![High](https://img.shields.io/badge/Urgency-High-f28c28)](#high)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/Urgency-Medium-f2c744)](#medium)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Low](https://img.shields.io/badge/Urgency-Low-4caf50)](#low)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Unassigned](https://img.shields.io/badge/Owner-Unassigned-8a8a8a)](#unassigned)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+</div>
+<h1 align="center">
   
- $${{\color{White}\huge{\textsf{Splunk Projects\ }}}}\$$
-
-
-<div id="gallery">
-<div align="center">
-<table width="75%">
-<tr>
-
-<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/beb12576e40079032d9be7b28216ad8b15cb16a0/Splunk%20Enterprise%20Deployment%20Lab.md"> <img width="1312" height="784" alt="image" src="https://github.com/user-attachments/assets/5cd96e7a-40ba-4e4f-9819-5abbd4d06f08" /></a>
-<p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</b></a></p>
-</td>
-</td>
-
-
-
-
-<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href=""><img width="1312" height="784" alt="image" src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" /></a>
-<p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Enterprise Deployment Lab (Part 2)- LOADING</b></a></p>
-</td>
-
-
-
-<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md"><img width="1216" height="848" alt="image" src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" /></a>
-<p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">Splunk Architecture Lab</b></a></p>
-</td>
-</td>
-
-
+[![CyberFlash-1](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@CyberFlash-1&size=square)](http://youtube.com/@Cyberflash-1)
+[![Khadijah W](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FKhadijah-W-33048518a%2F&subtitle=@Khadijah+W&size=square)](https://www.linkedin.com/in/khadijah-w-44bb48238) 
 
   
-<tr>
-</tr>
-</table>
-</div>
-<div id="gallery">
+
+## 🏆 Featured Projects
+
 <div align="center">
-<table width="50%">
-<tr>
 
-<td width="25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md"><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" /></a>
-<p><b><a href="">Splunk Enterprise Security LOADING</b></a></p>
-</td>
-
-
-
-<tr>
-</tr>
+<table>
+  <tr>
+    <td align="center" width="300" height="200">
+      <a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md"><img src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" alt="Sara AI"/>
+      <br>
+      <strong>Enterprise Deployment Lab</strong>
+      <br>
+    </td>
+        <!-- Enterprise Security Lab -->
+    <td align="center" width="300" height="200">
+     <a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md"><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" />
+      <br>
+      <strong>Enterprise Security (ES) Lab </strong>
+      <br>
+    </td>
+    <td align="center" width="300" height="200">
+      <<a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md"><img width="200" height="250" src ="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Tor.png" />
+      <br>
+      <strong>Unauthorized TOR Usage</strong>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300" height="200">
+      <a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md"><img width="600" height="3000" src ="https://github.com/user-attachments/assets/1d94b9fe-bd19-4e9a-b130-5dd7ffb2c4d5" />
+      <br>
+      <strong>Deep Access: The Adversary </strong>
+      <br>
+    </td>
+    <td align="center" width="300" height="200">
+   <a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Admin%20heist.png" />
+      <br>
+      <strong>The Great Admin Heist</strong>
+      <br>
+    </td>
+    <td align="center" width="300" height="200">
+    <a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/russian%20ip.png"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/russian%20ip.png" />
+      <br>
+      <strong>Threat Event: Russian Hacker</strong>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300" height="200">
+      <a href="https://github.com/j12y/predix-volcano-app"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Azure%20breach.png" />
+      <strong>Azure Threat Event</strong>
+      <br>
+    </td>
+    <td align="center" width="300" height="200">
+      <strong>Next Project?</strong>
+      <br>
+      Let's collaborate on something amazing!
+    </td>
+  </tr>
 </table>
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--New -->
 <div align="center">
 <div align="center">
@@ -134,51 +185,6 @@
   </picture>
 </div>
 
-##  Threat Hunting
-
-<div id="gallery">
-<div align="center">
-<table width="100%">
-<tr>
-<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md"><img width="200" height="250" src ="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Tor.png" /></a>
-<p><b><a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md">Threat Event: Unauthorized TOR Usage </b></a></p>
-
-<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md"><img width="600" height="3000" src ="https://github.com/user-attachments/assets/1d94b9fe-bd19-4e9a-b130-5dd7ffb2c4d5" /></a>
-<p><b><a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md">Threat Event: Deep Access – The Adversary</b></a></p>
-  
-<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Admin%20heist.png" /></a>
-<p><b><a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md">Threat Event: The Great Admin Heist</b></a></p>
-
-<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/j12y/predix-volcano-app"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Azure%20breach.png" /></a>
-<p><b><a href="https://github.com/j12y/predix-volcano-app">Threat Event: Microsoft Azure Breach</b></a></p>
-</td>
-
-<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/russian%20ip.png"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/russian%20ip.png" /></a>
-<p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/russian%20ip.png">Threat Event: Microsoft Azure Breach</b></a></p>
-</td>
-
-</td>
-</td>
-
-</tr>
-
-<tr>
-
-</tr>
-</table>
-</div>
-
-
-<div align="center">
-
-
-<div align="center">
-
 
 <details>
   <summary>View Incident Stats</summary>
@@ -208,32 +214,20 @@
 </div>
 <br>
 
-### SIEM & Detection Engineering
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Detection_Engineering-512DA8?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-KQL_Rule_Creation-1A237E?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-283593?&style=for-the-badge&logo=bell&logoColor=white" />
-</div>
 
-### Incident Response
-<div>
-    <img src="https://img.shields.io/badge/-Incident_Response_Playbooks-00695C?&style=for-the-badge&logo=opsgenie&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Timeline_Analysis-004D40?&style=for-the-badge&logo=clockify&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Containment_&_Remediation-1B5E20?&style=for-the-badge&logo=shield&logoColor=white" />
-</div>
-
-### Endpoint 
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Trellix-263238?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Process_&_File_Analysis-37474F?&style=for-the-badge&logo=windows-terminal&logoColor=white" />
-</div>
-
-### Vulnerability Management
-<div>
-    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vulnerability_Assessment-33691E?&style=for-the-badge&logo=bugcrowd&logoC_ "/>
-  
 ### Youtube Videos
 [Sailpoint Installation](https://www.youtube.com/watch?v=_3PzurBS2Ok)
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=CyberFlash-1&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberFlash-1&custom_title=CyberFlash's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CyberFlash-1&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberFlash-1&theme=highcontrast&hide_border=true">

@@ -1,15 +1,17 @@
-
-<div id="social" align="center">
-   <a href="http://youtube.com/@Cyberflash-1" target="_blank"><img src="https://komarev.com/ghpvc/?username=KhadijahW&label=Profile%20views&logoColor=white" alt="KhadijahW"/></a>
-  &nbsp; &nbsp; &nbsp;
-  
-  <!--Profile Count Badge-->
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=140&duration=3500&pause=1200&lines=GRID+INITIALIZING...;CYBERFLASH+BOOT+SEQUENCE;NEON+LOGS+OVERFLOW;SIEM+OVERLORD+ONLINE;THREATS+DETECTED...+FLASHED;ENTER+THE+SHADOW+NET" alt="CyberFlash Neon Boot Sequence" />
 </div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=Purple&center=true&vCenter=true&width=500&height=100&duration=5000&pause=2000&lines=Hello+Welcome!%0AI'm+CyberFlash!" />
-</h1>
+  
+
+  
+
+<div align="center">
+  <!-- Hero cyberpunk banner - replace with your favorite neon city / data stream image -->
+  <img src="https://thumbs.dreamstime.com/b/futuristic-cyberpunk-city-night-neon-lights-flying-vehicles-immersive-d-rendering-cityscape-towering-420595331.jpg" width="900" alt="Neon Cyberpunk Megacity Grid" />
+  <br><br>
+  <sub style="color: #00FFFF; text-shadow: 0 0 8px #00FFFF;">DATA RAINS DOWN. ADVERSARIES BURN IN NEON.</sub>
+</div>
+
 
 
 <table>
@@ -71,7 +73,7 @@
       <br>
     </td>
     <td align="center" width="300" height="200">
-      <<a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md"><img width="200" height="250" src ="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Tor.png" />
+      <a href="https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md"><img width="200" height="250" src ="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Tor.png" />
       <br>
       <strong>Unauthorized TOR Usage</strong>
       <br>
@@ -99,8 +101,9 @@
   </tr>
   <tr>
     <td align="center" width="300" height="200">
-      <a href="https://github.com/j12y/predix-volcano-app"><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Azure%20breach.png" />
-      <strong>Azure Threat Event</strong>
+      <a href=""><img width="200" height="250" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Azure%20breach.png" />
+          <br>
+         <strong> Azure Threat Event </strong>
       <br>
     </td>
     <td align="center" width="300" height="200">
@@ -115,75 +118,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--New -->
-<div align="center">
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th align="left">Urgency&nbsp;&nbsp;&nbsp;&nbsp;</th>
-      <th align="left">Status&nbsp;&nbsp;&nbsp;&nbsp;</th>
-      <th align="left">Owner&nbsp;&nbsp;&nbsp;&nbsp;</th>
-      <th align="left">Category&nbsp;&nbsp;&nbsp;&nbsp;</th>
-      <th align="left">Count&nbsp;&nbsp;&nbsp;&nbsp;</th>
-      <th align="left">Count&nbsp;&nbsp;&nbsp;&nbsp;</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Urgency-Critical-d93f3c" /></td>
-      <td><img src="https://img.shields.io/badge/Status-New-00bcd4" /></td>
-      <td><img src="https://img.shields.io/badge/Owner-Unassigned-8a8a8a" /></td>
-      <td>Endpoint&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td>42&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td>42&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Urgency-High-f28c28" /></td>
-      <td><img src="https://img.shields.io/badge/Status-In%20Progress-607d8b" /></td>
-      <td><img src="https://img.shields.io/badge/Owner-Analyst%201-4caf50" /></td>
-      <td>Identity&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td>18&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td>18&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Urgency-Medium-f2c744" /></td>
-      <td><img src="https://img.shields.io/badge/Status-Closed-2e7d32" /></td>
-      <td><img src="https://img.shields.io/badge/Owner-Analyst%202-2196f3" /></td>
-      <td>Access&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td>9&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td>9&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
-
-
-<div align="center">
-  <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 
 <details>
@@ -211,23 +145,31 @@
 </details>
 
 
-</div>
-<br>
-
-
 ### Youtube Videos
 [Sailpoint Installation](https://www.youtube.com/watch?v=_3PzurBS2Ok)
 
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=CyberFlash-1&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberFlash-1&custom_title=CyberFlash's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
 
+ 
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CyberFlash-1&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast">
+### 📡 TRANSMISSION LOG
+- Automating Splunk cluster bootstrap & licensing in shadow mode
+- Engineering next-level correlation & notable generation rules
+- Dropping glitch-art enhanced labs & neon architecture visuals
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberFlash-1&theme=highcontrast&hide_border=true">
+<div align="center" style="margin-top: 30px;">
+  <img src="https://images.stockcake.com/public/e/6/f/e6fa3054-91b5-4ef2-95c0-70bc3c25835e/neon-metropolis-glow-stockcake.jpg" width="900" alt="Neon Metropolis Glow - Cyberpunk Skyline" />
+  <br><br>
+  <sub style="color: #FF00AA; text-shadow: 0 0 10px #FF00AA;">The grid never sleeps. Neither do I.</sub>
+</div>
+
+<div align="center" style="margin: 40px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberFlash-1&show_icons=true&theme=dracula&hide_border=true&bg_color=0d001a&title_color=00FFFF&icon_color=00FFFF&text_color=C0FFFF&border_radius=12" alt="Grid Stats" width="420" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberFlash-1&theme=dracula&hide_border=true&background=0d001a&stroke=00FFFF&ring=00FFFF&fire=FF006E&currStreakNum=00FFFF&sideNums=C0FFFF&dates=C0FFFF" alt="Streak Heatmap" width="420" />
+</div>
+
+<div align="center" style="font-size: 0.9em; color: #00AAAA; opacity: 0.8;">
+  <sub>NEON PROTOCOL v2.6 — LAST SYNC: FEB 18 2026 — STATUS: ONLINE & HUNTING</sub>
+</div>

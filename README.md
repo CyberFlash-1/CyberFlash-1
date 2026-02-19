@@ -26,11 +26,27 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <p><strong>Welcome to my Splunk Enterprise Deployment Lab </strong> a hands-on environment for mastering distributed Splunk architectures. This lab goes through setting up a realistic production-like deployment featuring 3 Indexers (IDX) for clustered indexing and data replication, 1 Cluster Manager (CM) to coordinate the indexer cluster, a combined Deployment Server (DS), License Manager (LM), and Monitoring Console (MC) instance for centralized configuration management, licensing, and health monitoring, 1 Universal Forwarder (UF) for lightweight data collection, and 1 Search Head (SH) for querying and visualization.
-      Designed to mirror Splunk Validated Architectures best practices for single-site clustered deployments, this setup provides high availability for indexing, simplified management, and scalable search capabilities—perfect for learning, testing, labs, or proof-of-concepts in security, observability, and IT operations use cases.
-      With the foundational manual deployment complete, the next phase focuses on automation: scripting installs, configurations, cluster peer setup, forwarder onboarding, app deployments via the Deployment Server, and more—using tools like Ansible, Terraform, Docker, or bash/PowerShell scripts to make repeatable, infrastructure-as-code deployments.
-      Built for performance, reliability, and easy scaling, this Splunk lab continues to evolve. Stay tuned for advanced features like search head clustering, multi-site replication, SmartStore integration, or integrations with modern observability tools.</p>
+  <td colspan="2">
+      <p><strong>Welcome to the Splunk Enterprise Deployment Lab</strong></p>
+      <p style="text-align: justify;">
+        This hands-on lab environment is designed to help you master distributed Splunk architectures by walking through a realistic, production-like deployment. The current setup includes:
+      </p>
+      <ul style="text-align: justify;">
+        <li><strong>3 Indexers (iDX)</strong> – forming a clustered indexing tier with data replication and search factor for high availability</li>
+        <li><strong>1 Cluster Manager (CM)</strong> – coordinates the indexer cluster, manages bucket fix-up activities, and enforces replication policies</li>
+        <li><strong>1 combined instance</strong> running <strong>Deployment Server (DS)</strong>, <strong>License Manager (LM)</strong>, and <strong>Monitoring Console (MC)</strong> – centralizes forwarder management, licensing, and cluster health/performance monitoring</li>
+        <li><strong>1 Universal Forwarder (UF)</strong> – lightweight data collection agent for getting data into the Splunk environment</li>
+        <li><strong>1 Search Head (SH)</strong> – dedicated instance for searching, reporting, dashboarding, and user interaction</li>
+      </ul>
+      <p style="text-align: justify;">
+        The architecture closely follows Splunk Validated Architectures (SVA) recommendations for a single-site indexer cluster with a non-clustered search head — ideal for learning distributed deployments, testing security and observability use cases, building proofs-of-concept, or preparing for Splunk certifications and real-world implementations.
+      </p>
+      <p style="text-align: justify;">
+        With the initial manual deployment now complete and fully functional, the focus has shifted to <strong>automation</strong>. The next phase involves scripting and codifying the entire installation, configuration, and cluster setup process — including indexer clustering, peer node bootstrapping, license stacking, deployment server app distribution, universal forwarder onboarding, search head configuration, monitoring console setup, and more. Automation is being implemented using modern infrastructure-as-code practices (Ansible playbooks, Terraform modules, bash/PowerShell scripts, Docker Compose, or similar tools) to enable fast, repeatable, and version-controlled Splunk lab environments.
+      </p>
+      <p style="text-align: justify;">
+        Explore the linked lab guides above for detailed architecture diagrams, step-by-step instructions, configuration files, troubleshooting tips, and the evolving automation code. This project continues to grow — future enhancements may include search head clustering, multi-site replication, SmartStore object storage integration, workload management, and integrations with observability and security platforms.
+      </p>
     </td>
   </tr>
 </table>

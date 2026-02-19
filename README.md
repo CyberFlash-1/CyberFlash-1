@@ -48,36 +48,6 @@
 
 
 
-
-
-
-
-
-
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=45&color=FF0000&center=true&vCenter=true&width=700&height=140&duration=3500&pause=1200&lines=NEGATIVE+SPEED+FORCE+INITIALIZING...;CENTRAL+CITY+BOOT+SEQUENCE;REVERSE+FLASH+LOGS+OVERFLOW;EOBARD+THAWNE+ONLINE;THREATS+DETECTED...+REVERSED;ENTER+THE+NEGATIVE+NET" alt="Reverse-Flash Central City Negative Boot Sequence" />
-</div>
-
-
-<br>
-
-
-
-[![Critical](https://img.shields.io/badge/Urgency-Critical-d93f3c)](#critical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![High](https://img.shields.io/badge/Urgency-High-f28c28)](#high)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/Urgency-Medium-f2c744)](#medium)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Low](https://img.shields.io/badge/Urgency-Low-4caf50)](#low)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Unassigned](https://img.shields.io/badge/Owner-Unassigned-8a8a8a)](#unassigned)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-</div>
-<h1 align="center">
-  
-[![CyberFlash-1](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@CyberFlash-1&size=square)](http://youtube.com/@Cyberflash-1)
-[![Khadijah W](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FKhadijah-W-33048518a%2F&subtitle=@Khadijah+W&size=square)](https://www.linkedin.com/in/khadijah-w-44bb48238) 
-
   
 
 ## 🏆 Featured Projects
@@ -171,25 +141,9 @@
 
 </details>
 
-
-### Youtube Videos
-[Sailpoint Installation](https://www.youtube.com/watch?v=_3PzurBS2Ok)
-
-
- 
-
 </div>
 
-### 📡 TRANSMISSION LOG
-- Automating Splunk cluster bootstrap & licensing in shadow mode
-- Engineering next-level correlation & notable generation rules
-- Dropping glitch-art enhanced labs & neon architecture visuals
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://images.stockcake.com/public/e/6/f/e6fa3054-91b5-4ef2-95c0-70bc3c25835e/neon-metropolis-glow-stockcake.jpg" width="900" alt="Neon Metropolis Glow - Cyberpunk Skyline" />
-  <br><br>
-  <sub style="color: #FF00AA; text-shadow: 0 0 10px #FF00AA;">The grid never sleeps. Neither do I.</sub>
-</div>
 
 <div align="center" style="margin: 40px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberFlash-1&show_icons=true&theme=dracula&hide_border=true&bg_color=0d001a&title_color=00FFFF&icon_color=00FFFF&text_color=C0FFFF&border_radius=12" alt="Grid Stats" width="420" />
@@ -197,6 +151,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberFlash-1&theme=dracula&hide_border=true&background=0d001a&stroke=00FFFF&ring=00FFFF&fire=FF006E&currStreakNum=00FFFF&sideNums=C0FFFF&dates=C0FFFF" alt="Streak Heatmap" width="420" />
 </div>
 
-<div align="center" style="font-size: 0.9em; color: #00AAAA; opacity: 0.8;">
-  <sub>NEON PROTOCOL v2.6 — LAST SYNC: FEB 18 2026 — STATUS: ONLINE & HUNTING</sub>
 </div>
+<h1 align="center">
+  
+[![CyberFlash-1](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@CyberFlash-1&size=square)](http://youtube.com/@Cyberflash-1)
+[![Khadijah W](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FKhadijah-W-33048518a%2F&subtitle=@Khadijah+W&size=square)](https://www.linkedin.com/in/khadijah-w-44bb48238) 
+

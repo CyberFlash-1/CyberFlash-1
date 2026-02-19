@@ -27,9 +27,10 @@
   </tr>
   <tr>
     <td colspan="2">
-      <p><strong>Welcome to 'Document Whispers',</strong> the future of document interaction. This modern web application transforms how you engage with your PDFs by allowing you to upload documents and chat directly with them. Powered by the cutting-edge Vercel AI SDK, 'Document Whispers' provides blazing-fast AI responses, making it your go-to tool for quick answers to assignments and research inquiries.</p>
-      <p>Our platform not only lets you read documents as you interact with them, but also ensures that your queries are thoroughly analyzed to provide high-quality, well-researched answers. Leveraging the largest and most advanced language models, our generative AI digs deep into your questions, offering precise and insightful responses.</p>
-      <p>Built on robust serverless technology for seamless performance and protected by Clerk for top-tier authentication, 'Document Whispers' is continually evolving. Stay tuned for more innovative features that will redefine your document handling experience!</p>
+      <p><strong>Welcome to my Splunk Enterprise Deployment Lab </strong> a hands-on environment for mastering distributed Splunk architectures. This lab goes through setting up a realistic production-like deployment featuring 3 Indexers (IDX) for clustered indexing and data replication, 1 Cluster Manager (CM) to coordinate the indexer cluster, a combined Deployment Server (DS), License Manager (LM), and Monitoring Console (MC) instance for centralized configuration management, licensing, and health monitoring, 1 Universal Forwarder (UF) for lightweight data collection, and 1 Search Head (SH) for querying and visualization.
+      Designed to mirror Splunk Validated Architectures best practices for single-site clustered deployments, this setup provides high availability for indexing, simplified management, and scalable search capabilities—perfect for learning, testing, labs, or proof-of-concepts in security, observability, and IT operations use cases.
+      With the foundational manual deployment complete, the next phase focuses on automation: scripting installs, configurations, cluster peer setup, forwarder onboarding, app deployments via the Deployment Server, and more—using tools like Ansible, Terraform, Docker, or bash/PowerShell scripts to make repeatable, infrastructure-as-code deployments.
+      Built for performance, reliability, and easy scaling, this Splunk lab continues to evolve. Stay tuned for advanced features like search head clustering, multi-site replication, SmartStore integration, or integrations with modern observability tools.</p>
     </td>
   </tr>
 </table>

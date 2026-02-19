@@ -116,38 +116,34 @@
 
 
 
-
+<div align="center" style="margin: 40px 0;">
 <details>
-  <summary>View Incident Stats</summary>
+  <summary>Additional Projects</summary>
 
-  - Critical:Vulnerability Management
-  - **[SonarQube & Snyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)**
-  - **[Vulnerability Assessment](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)**
-  - **[STIG Remediations](https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md)**
-  - **[Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)**
-  - High:Identity & Access Management (IAM)
-  - **[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)**
-  - **[CyberArk Privileged Access Management](https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md)**
-  - **[SailPoint IdentityNow Setup](https://github.com/khadijahW/Flash028/blob/aa96b8fcbe23d3048199ce38eaf18f5fb9c17ab1/Sailpoint-setup.md)**
-  - Medium: 
-  - **[Active Directory Lab](https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md)**
-  - **[Splunk Corelight / Suricata (BOTS)](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**
-  - **[Splunk + Atomic Red Team](https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md)**
-  - Low: Linux
-  - **[Metasploit / Metasploitable2 Lab](https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md)**
-  - **[Meow](https://github.com/khadijahW/Flash028/blob/b3fee9ae5c337358f4d7f0f508a2ee7d3b90969a/HTB/Meow.md)**
-  - **[Fawn](https://github.com/khadijahW/Flash028/blob/ebb244e076c7ee58bd544c8cbf1c9b14380715a3/HTB/FAWN.md)**
+**[SonarQube & Snyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)**<br>
+**[Vulnerability Assessment](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)**<br>
+**[STIG Remediations](https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md)**<br>
+**[Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)**<br>
+**[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)**<br>
+**[CyberArk Privileged Access Management](https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md)**<br>
+**[SailPoint IdentityNow Setup](https://github.com/khadijahW/Flash028/blob/aa96b8fcbe23d3048199ce38eaf18f5fb9c17ab1/Sailpoint-setup.md)**<br>
+**[Active Directory Lab](https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md)**<br>
+**[Splunk Corelight / Suricata (BOTS)](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**<br>
+**[Splunk + Atomic Red Team](https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md)**<br>
+**[Metasploit / Metasploitable2 Lab](https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md)**<br>
+**[Meow](https://github.com/khadijahW/Flash028/blob/b3fee9ae5c337358f4d7f0f508a2ee7d3b90969a/HTB/Meow.md)**<br>
+**[Fawn](https://github.com/khadijahW/Flash028/blob/ebb244e076c7ee58bd544c8cbf1c9b14380715a3/HTB/FAWN.md)**<br>
 
 
 </details>
+</div>
 
 </div>
 
 
 
+    
 <div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberFlash-1&show_icons=true&theme=dracula&hide_border=true&bg_color=0d001a&title_color=00FFFF&icon_color=00FFFF&text_color=C0FFFF&border_radius=12" alt="Grid Stats" width="420" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberFlash-1&theme=dracula&hide_border=true&background=0d001a&stroke=00FFFF&ring=00FFFF&fire=FF006E&currStreakNum=00FFFF&sideNums=C0FFFF&dates=C0FFFF" alt="Streak Heatmap" width="420" />
 </div>
 

@@ -1,14 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=50&color=FF4500&center=true&vCenter=true&width=1100&height=140&duration=3500&pause=1200&lines=HELLO+CYBERFLASH+SPEED+FORCE+INITIALIZING...;CENTRAL+CITY+BOOT+SEQUENCE;LIGHTNING+LOGS+OVERFLOW;THREATS+DETECTED...;ENTERING+THE+SPEED+NET" alt="The Flash Central City Lightning Boot Sequence" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=48&color=FF006E&center=true&vCenter=true&width=1600&height=120&duration=3500&pause=1200&lines=Khadijah;Cybersecurity+Engineer;Splunk+Architect-in-Training;Detection+Engineering+%7C+Threat+Hunting;" />
 
-<div align="center">
-  <!-- Barry racing with lightning trails through the city -->
-  <img src="https://i.redd.it/26hbbmsc30od1.jpeg" width="900" alt="The Flash speeding through streets with explosive yellow lightning trails" />
-  <br><br>
 
 </div>
-
+    
 --------------------------------
 <table>
   <tr>
@@ -63,13 +58,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=45&color=FF0000&center=true&vCenter=true&width=700&height=140&duration=3500&pause=1200&lines=NEGATIVE+SPEED+FORCE+INITIALIZING...;CENTRAL+CITY+BOOT+SEQUENCE;REVERSE+FLASH+LOGS+OVERFLOW;EOBARD+THAWNE+ONLINE;THREATS+DETECTED...+REVERSED;ENTER+THE+NEGATIVE+NET" alt="Reverse-Flash Central City Negative Boot Sequence" />
-</div>
-
-<div align="center">
-  <!-- Hero banner - comic-style intense lightning storm over city, Negative Speed Force vibe -->
-  <img src="https://static.wikia.nocookie.net/marvel_dc/images/4/42/Professor_Zoom_Prime_Earth_008.jpg/revision/latest?cb=20200607220840" width="900" alt="Comic book cover of Reverse-Flash charging with red lightning cracks everywhere" />
-  <br><br>
-  <sub style="color: #FF0000; text-shadow: 0 0 8px #FF0000, 0 0 16px #FFD700;">NEGATIVE SPEED FORCE RAINS DOWN. THE FLASH BURNS IN REVERSE LIGHTNING.</sub>
 </div>
 
 

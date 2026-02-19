@@ -1,19 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=140&duration=3500&pause=1200&lines=GRID+INITIALIZING...;CYBERFLASH+BOOT+SEQUENCE;NEON+LOGS+OVERFLOW;SIEM+OVERLORD+ONLINE;THREATS+DETECTED...+FLASHED;ENTER+THE+SHADOW+NET" alt="CyberFlash Neon Boot Sequence" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=50&color=FF4500&center=true&vCenter=true&width=1100&height=140&duration=3500&pause=1200&lines=HELLO+CYBERFLASH+SPEED+FORCE+INITIALIZING...;CENTRAL+CITY+BOOT+SEQUENCE;LIGHTNING+LOGS+OVERFLOW;THREATS+DETECTED...;ENTERING+THE+SPEED+NET" alt="The Flash Central City Lightning Boot Sequence" />
 </div>
-  
-
-  
 
 <div align="center">
-  <!-- Hero cyberpunk banner - replace with your favorite neon city / data stream image -->
-  <img src="https://thumbs.dreamstime.com/b/futuristic-cyberpunk-city-night-neon-lights-flying-vehicles-immersive-d-rendering-cityscape-towering-420595331.jpg" width="900" alt="Neon Cyberpunk Megacity Grid" />
+  <!-- Barry racing with lightning trails through the city -->
+  <img src="https://i.redd.it/26hbbmsc30od1.jpeg" width="900" alt="The Flash speeding through streets with explosive yellow lightning trails" />
   <br><br>
-  <sub style="color: #00FFFF; text-shadow: 0 0 8px #00FFFF;">DATA RAINS DOWN. ADVERSARIES BURN IN NEON.</sub>
+
 </div>
 
-----------------------------------------------------------------------
-
+--------------------------------
 <table>
   <tr>
     <td>
@@ -37,6 +33,32 @@
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=45&color=FF0000&center=true&vCenter=true&width=700&height=140&duration=3500&pause=1200&lines=NEGATIVE+SPEED+FORCE+INITIALIZING...;CENTRAL+CITY+BOOT+SEQUENCE;REVERSE+FLASH+LOGS+OVERFLOW;EOBARD+THAWNE+ONLINE;THREATS+DETECTED...+REVERSED;ENTER+THE+NEGATIVE+NET" alt="Reverse-Flash Central City Negative Boot Sequence" />
+</div>
+
+<div align="center">
+  <!-- Hero banner - comic-style intense lightning storm over city, Negative Speed Force vibe -->
+  <img src="https://static.wikia.nocookie.net/marvel_dc/images/4/42/Professor_Zoom_Prime_Earth_008.jpg/revision/latest?cb=20200607220840" width="900" alt="Comic book cover of Reverse-Flash charging with red lightning cracks everywhere" />
+  <br><br>
+  <sub style="color: #FF0000; text-shadow: 0 0 8px #FF0000, 0 0 16px #FFD700;">NEGATIVE SPEED FORCE RAINS DOWN. THE FLASH BURNS IN REVERSE LIGHTNING.</sub>
+</div>
+
+
+<br>
+
+
 
 [![Critical](https://img.shields.io/badge/Urgency-Critical-d93f3c)](#critical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![High](https://img.shields.io/badge/Urgency-High-f28c28)](#high)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

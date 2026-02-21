@@ -117,7 +117,7 @@
 
 
 <div align="center" style="margin: 40px 0;">
-<details>
+
   <summary>Additional Projects</summary>
 
 **[SonarQube & Snyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)**<br>
@@ -135,7 +135,7 @@
 **[Fawn](https://github.com/khadijahW/Flash028/blob/ebb244e076c7ee58bd544c8cbf1c9b14380715a3/HTB/FAWN.md)**<br>
 
 
-</details>
+
 </div>
 
 </div>

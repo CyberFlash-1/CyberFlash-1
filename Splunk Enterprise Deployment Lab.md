@@ -19,7 +19,9 @@ In this lab I set up a splunk enviroment consisiting of:
 
 $${{\color{Yellow}\huge{\textsf{Architecture }}}}\$$
 <div align="center">
-<img width="800" height="600" alt="deployment" src="https://github.com/user-attachments/assets/5fb759df-167a-4c74-94a2-c01eb014a974" /></a>
+<img width="800" height="600" alt="deployment" src="https://github.com/user-attachments/assets/08b54ee5-9710-49e9-87f2-44e3835bbd3a" /></a>
+
+
 </div>
   </br>
   </div>

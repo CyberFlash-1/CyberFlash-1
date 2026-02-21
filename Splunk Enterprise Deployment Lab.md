@@ -1,22 +1,6 @@
  $${{\color{Lime}\huge{\textsf{Splunk Enterprise Lab\ }}}}\$$
 
 
-$${{\color{Blue}\huge{\textsf{Overview }}}}\$$
-
----
-In this lab I set up a splunk enviroment consisiting of:
-| VM                   | OS              | Role(s)                                                                                                        |
-| -------------------- | ----------------|--------------------------------------------------------------------------------------------------------------- |
-| Virtual Machine 1    | RHEL 10         | **Universal Forwarder (UF)**                                                                                   |
-| Virtual Machine 2    | RHEL 10         | **Search Head (SH)**                                                                                           |
-| Virtual Machine 3    | RHEL 10         | **Deployment Server**+ **Monitoring Console**+ **License Manager**                                            |
-| Virtual Machine 4    | RHEL 10         | **Cluster Manager**                                                                                            |
-| Virtual Machine 5    | RHEL 10         | **Indexer**                                                                                                    |
-| Virtual Machine 6    | RHEL 10         | **Indexer**                                                                                                    |
-| Virtual Machine 7    | RHEL 10         | **Indexer**                                                                                                    |;
-
-
-
 $${{\color{Yellow}\huge{\textsf{Architecture }}}}\$$
 <div align="center">
 <img width="800" height="600" alt="deployment" src="https://github.com/user-attachments/assets/08b54ee5-9710-49e9-87f2-44e3835bbd3a" /></a>
@@ -26,13 +10,9 @@ $${{\color{Yellow}\huge{\textsf{Architecture }}}}\$$
   </br>
   </div>
   
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 1: Download Splunk\ }}}}\$
- 
-</div>
 
-# Splunk Distributed Deployment Lab
+
+${{\color{Yellow}\large{\textsf{Splunk Distributed Deployment Lab\ }}}}\$
 
 A full multi‑tier Splunk Enterprise lab that mirrors a real‑world distributed architecture. This environment includes clustered indexers, a dedicated Cluster Manager, a Search Head, a combined License Manager / Deployment Server / Monitoring Console, and a Universal Forwarders. The lab demonstrates installation, clustering, index management, data onboarding, search‑time knowledge objects, and distributed monitoring.
 

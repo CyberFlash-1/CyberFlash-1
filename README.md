@@ -11,7 +11,7 @@
       <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
         <img src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" width="100%" alt="Unlock the Voice of PDF">
       </a>
-        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
+        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
     </td>
     <td>
       <a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">

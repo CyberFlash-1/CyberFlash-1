@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td align="center" width="300" height="200">
-      <a href="https://github.com/CyberFlash-1/Flash028/blob/7c7a0b4dbbe069c2ff20e7d057ad66fb9ef7c8bc/Splunk/Architecting%20Splunk%20Scenario.md"><img src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" alt="Sara AI"/>
+      <a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md"><img src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" alt="Sara AI"/>
       <br>
       <strong>Architecting Splunk:Scenario Lab</strong>
       <br>

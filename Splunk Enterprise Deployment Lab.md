@@ -30,175 +30,110 @@ ${{\color{Yellow}\large{\textsf{Step 1: Download Splunk\ }}}}\$
  
 </div>
 
+# Splunk Distributed Deployment Lab
+
+A full multi‑tier Splunk Enterprise lab that mirrors a real‑world distributed architecture. This environment includes clustered indexers, a dedicated Cluster Manager, a Search Head, a combined License Manager / Deployment Server / Monitoring Console, and a Universal Forwarders. The lab demonstrates installation, clustering, index management, data onboarding, search‑time knowledge objects, and distributed monitoring.
+
+---
+
+## 🧩 Architecture Overview
+
+The lab consists of the following Splunk components:
+
+- **License Manager / Deployment Server / Monitoring Console**
+- **Cluster Manager (CM)**
+- **Indexer Cluster (3 peers)**
+- **Search Head (SH)**
+
+
+Forwarder sends data → Indexer Cluster (via Indexer Discovery) → Search Head for distributed search. The Deployment Server manages UF configurations, and the Monitoring Console runs in distributed mode.
+
+---
+
+## ⚙️ Installation & Core Configuration
+
+### Splunk Enterprise (All Components Except UFs)
+- Extract Splunk to `/opt/splunk`
+- Assign ownership to the `splunk` user
+- Start Splunk and accept the license
+- Enable boot‑start with systemd and polkit rules
+
+### Licensing
+- Configure each instance as a license *peer*
+- Assign the License Manager via port `8089`
+- Install the Enterprise license on the LM
+
+### Deployment Server
+- Enable DS functionality
+- Configure `serverclass.conf` to manage UF apps
+- Deploy apps such as `Splunk_TA_nix` and custom monitoring inputs
+
+---
+
+## 🏗️ Indexer Clustering
+
+### Cluster Manager
+- Configure clustering in **manager** mode  
+  Example:
 ```
-wget -O splunk.tgz 'https://download.splunk.com/products/splunk/releases/9.1.2/linux/splunk-9.1.2-Linux-x86_64.tgz'
-tar -xvzf splunk.tgz -C /opt
+splunk edit cluster-config -mode manager -replication_factor 3 -search_factor 2 -secret <key>
 ```
+- Enable Indexer Discovery for forwarders
+- Manage indexes via:
+`/opt/splunk/etc/master-apps/_cluster/local/indexes.conf`
+- Validate and push cluster bundles
 
-### Create the splunk User from the ROOT User Account 
+### Indexer Peers
+- Join each indexer to the cluster manager
+- Open required ports (`8089`, `9997`, replication port)
+- Enable receiving on port `9997`
 
+---
+
+## 🔍 Search Head Integration
+
+- Connect SH to the cluster using:
+  ```
+  splunk edit cluster-config -mode searchhead -master_uri https://<CM>:8089
+  ```
+  - Restart and validate distributed search
+- Install search‑time apps (e.g., Splunk_TA_nix)
+- Configure props/transforms for XML and IronPort parsing
+
+---
+
+## 📡 Forwarder Configuration
+
+### Universal Forwarder Installation
+- Extract UF to `/opt/splunkforwarder`
+- Start and enable the service
+
+### Indexer Discovery
+`outputs.conf`:
 ```
-sudo su
-useradd splunk
-sudo chown -R splunk:splunk /opt/splunk    #### This give the splunk user ownership/permissions for the splunk directory #####
-sudo su - splunk
-cd /opt/splunk/bin
-/opt/splunk/bin/splunk start --accept-license
-./splunk stop
-```
-
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 2: Enable boot-start\ }}}}\$
-
-</div>
-
-```
-cd /opt/splunk/bin
-./splunk enable boot-start -systemd-managed 1 -create-polkit-rules 1 -user splunk
-#### revert back to the splunk user and start splunk ####
-sudo su - splunk
-cd /opt/splunk/bin
-./splunk start
-```
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 3: Enabling Clustering for the Cluster Manager - CM \ }}}}\$
-
-</div>
-
-```
-[clustering]
-mode=master
-pass4SymmKey = <string>
-search_factor=2
-replication_factor=3
-```
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 4: Enabling Clustering for the Peers(Indexers) \ }}}}\$
-
-</div>
-
-```
-[replication_port://9887]
-
-[clustering]
-mode=peer
-pass4SymmKey = <string> # same as the key:value for the cluster manager
-manager_uri=https://CM:8089
-```
-
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 5: Enabling Indexer Discover on the CM\ }}}}\$
-
-</div>
-
-```
-[indexer_discovery]
-pass4SymmKey = my_secret # same string is to be used on the UF
-polling_rate = 10
-[optional]indexerWeightByDiskCapacity = <bool> # determines whether indexer discovery uses weighted load balancing. 
-```
-
-
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 6: Enabling Indexer Discover on the UF\ }}}}\$
-
-</div>
-
-```
-[indexer_discovery:manager1]
-pass4SymmKey = my_secret
-manager_uri = https://10.152.31.202:8089
-
-[tcpout:group1]
-autoLBFrequency = 30
-forceTimebasedAutoLB = true
-indexerDiscovery = manager1
-useACK=true
-
-[tcpout]
-defaultGroup = group1
-
-
-
+[indexer_discovery:idx_discovery]
+manager_uri = https://<CM>:8089
+pass4SymmKey = idxforwarders
 ```
 
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 7: Creating the Indexes\ }}}}\$
-
-</div>
-
-
-
-
-
-
-
-
-
-
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 8: Configuring the deploymentclient.conf on the UF\ }}}}\$
-
-</div>
+### Deployment Client
+`deploymentclient.conf`:
 
 ```
-[deployment-client]
-clientName=$hostname
-
 [target-broker:deploymentServer]
-target_uri=https://DS:8089
-
-Then run ./splunk show deploy-poll : This should be the IP address of the Deployment Server 
-
+targetUri = <DS-IP>:8089
 ```
+### Data Inputs
+UF1:
+- Monitor Apache-style access logs → `network` index  
+- Apply host extraction via transforms
 
+  
+---
 
+## 📊 Monitoring Console
 
-
-
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 9: Creating the serverclass on the Deployment Server \ }}}}\$
-
-</div>
-
-
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 10: Creating an app on the Deployment Server \ }}}}\$
-
-</div>
-
-
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 10: Creating the inputs on the Deployment Server \ }}}}\$
-
-</div>
-
-
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 11: Connecting the SH to the Cluster Manager  \ }}}}\$
-
-</div>
-
-```
-splunk edit cluster-config -mode searchhead -manager_uri https://10.160.31.200:8089 -secret my_secret
-
-splunk restart
-
-```
-
-<div align="center">
- 
-${{\color{Yellow}\large{\textsf{Step 12: Setting up the Monitoring Console  \ }}}}\$
-
-</div>
+- Enable **Distributed Mode**
+- Add search peers
+- Configure Forwarder Monitoring
+- Build the DMC asset table

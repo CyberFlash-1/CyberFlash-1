@@ -35,7 +35,6 @@ flowchart LR
     F1 -->|"Send Data (9997)"| I1
     F2 -->|"Send Data (9997)"| I2
 ```
-High‑Level Overview for GitHub
 
 This repository contains a full automation framework for deploying and configuring a complete Splunk distributed environment. The project is built around a Bash‑based orchestration script that installs Splunk Enterprise, configures indexer clustering, provisions forwarders, manages deployment server classes, and applies firewall rules across multiple hosts. The script is intentionally written to be transparent, modular, and easy to extend, making it suitable for both lab learning and real‑world operational practice.
 

@@ -70,10 +70,11 @@
     </td>
         <!-- Enterprise Security Lab -->
     <td align="right" width="200" height="200">
-     <a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md"><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" />
+     <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" />
       <br>
       <strong>Enterprise Security (ES) </strong>
       <br>
+        <!-- Authorized TOR Usage -->
     </td>
     <td align="center" width="150" height="100">
       <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img width="100" height="150" src ="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Tor.png" />

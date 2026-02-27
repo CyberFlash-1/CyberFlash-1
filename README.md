@@ -118,10 +118,12 @@
 </table>
 
 </div>
+<br>
+<div align="center">
+  
+${{\color{GoldenRod}\Huge{\textsf{Additional Projects\}}}}\$
 
-
-
-# Additional Projects
+</div>
 
 ***[SonarQube & Snyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)***<br>
 ***[Vulnerability Assessment](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)***<br>

@@ -62,14 +62,14 @@
 
 <table>
   <tr>
-    <td align="center" width="200" height="200">
+    <td align="center" width="250" height="250">
       <a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md"><img src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" alt="Sara AI"/>
       <br>
       <strong>Architecting Splunk:Scenario Lab</strong>
       <br>
     </td>
         <!-- Enterprise Security Lab -->
-    <td align="right" width="200" height="200">
+    <td align="center" width="250" height="250">
      <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img width="400" height="400" alt=""<img src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52"/>
       <br>
       <strong>Enterprise Security (ES) </strong>
@@ -85,10 +85,10 @@ ${{\color{GoldenRod}\Huge{\textsf{Additional Projects\}}}}\$
 
 </div>
 
-***[SonarQube & Snyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)***<br>
-***[Vulnerability Assessment](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)***<br>
-***[STIG Remediations](https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md)***<br>
-***[Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)***<br>
+***[The Great Admin Heist](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Cyber-Threat-Hunt.md)***<br>
+***[Threat Hunt - Suspicious Activity from Russian-Origin IP ](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)***<br>
+***[Threat Hunt: AzureBreach](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Threat-Hunt-Report.md)***<br>
+***[Threat Hunt : The Adversary](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Threat-report-Adversary.md)***<br>
 ---
 ***[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)***<br>
 ***[CyberArk Privileged Access Management](https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md)***<br>

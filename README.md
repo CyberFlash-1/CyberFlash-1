@@ -74,7 +74,11 @@
       <br>
       <strong>Enterprise Security (ES) </strong>
       <br>
-       
+    </td>
+       <tr>
+         <table>
+
+           
 <div align="center">
   
 ${{\color{GoldenRod}\Huge{\textsf{Additional Projects\}}}}\$

@@ -74,52 +74,7 @@
       <br>
       <strong>Enterprise Security (ES) </strong>
       <br>
-        <!-- Authorized TOR Usage -->
-    </td>
-    <td align="center" width="150" height="100">
-      <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img width="100" height="150" src ="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Tor.png" />
-      <br>
-      <strong>Unauthorized TOR Usage</strong>
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" height="200">
-      <a href="https://github.com/khadijahW/Flash028/blob/700607ffbd84996f2996c26d143c9d5dfd27b778/Threat-report-Adversary.md"><img width="150" height="200" src ="https://github.com/user-attachments/assets/1d94b9fe-bd19-4e9a-b130-5dd7ffb2c4d5" />
-      <br>
-      <strong>Deep Access: The Adversary </strong>
-      <br>
-    </td>
-    <td align="center" width="100" height="100">
-   <a href="https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md"><img width="100" height="150" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Admin%20heist.png" />
-      <br>
-      <strong>The Great Admin Heist</strong>
-      <br>
-    </td>
-    <td align="center" width="150" height="100">
-    <a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/russian%20ip.png"><img width="100" height="150" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/russian%20ip.png" />
-      <br>
-      <strong>Threat Event: Russian Hacker</strong>
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100" height="100">
-      <a href=""><img width="100" height="150" alt="Phase" src="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/IMAGES/Azure%20breach.png" />
-          <br>
-         <strong> Azure Threat Event </strong>
-      <br>
-    </td>
-    <td align="center" width="50" height="50">
-      <strong>Next Project?</strong>
-      <br>
-      Let's collaborate on something amazing!
-    </td>
-  </tr>
-</table>
-
-</div>
-<br>
+       
 <div align="center">
   
 ${{\color{GoldenRod}\Huge{\textsf{Additional Projects\}}}}\$

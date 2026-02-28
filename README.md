@@ -62,29 +62,29 @@
 
 <table>
   <tr>
-    <td align="center" width="250" height="250">
-      <a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md"><img src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" alt="Sara AI"/>
+<td align="center" valign="top">
+      <a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md"><img src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" height="200"width="320" alt="Sara AI"/>
       <br>
-      <strong>Architecting Splunk:Scenario Lab</strong>
-      <br>
+      <strong>Architecting Splunk Lab</strong></a>
+      <br><sub>Scenario based splunk architecture</sub>
     </td>
         <!-- Enterprise Security Lab -->
-    <td align="center" width="250" height="250">
-     <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img width="400" height="400" alt=""<img src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52"/>
-      <br>
-      <strong>Enterprise Security (ES) </strong>
-      <br>
+<td align="center" valign="top">
+     <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" height="200" width="320" /><br>
+      <strong>Enterprise Security (ES) </strong></a>
+    <br><sub>Exploring Enterprise Security</sub>
     </td>
        <tr>
          <table>
-
-           
+           <br>
+           <br>
 <div align="center">
   
-${{\color{GoldenRod}\Huge{\textsf{Additional Projects\}}}}\$
+# Additional Projects
 
 </div>
 
+***[Building a SOC + Honeynet](https://github.com/CyberFlash-1/Flash028/blob/70554fe1e82751a5f3e00c760da626a09ea3b282/BUILDING%20A%20SOC/building-a-soc.md)***<br>
 ***[The Great Admin Heist](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Cyber-Threat-Hunt.md)***<br>
 ***[Threat Hunt - Suspicious Activity from Russian-Origin IP ](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)***<br>
 ***[Threat Hunt: AzureBreach](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Threat-Hunt-Report.md)***<br>

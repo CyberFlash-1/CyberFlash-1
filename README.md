@@ -11,9 +11,14 @@
 </div>
 
 </div>
+
+<div align="center">
+  
+# Featured Projects
+
+</div>
     
---------------------------------
-## 🏆 Featured Projects
+
   <table width="10%">
   <tr>
   <td align="center" valign="top">

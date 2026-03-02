@@ -90,7 +90,7 @@
 </div>
 
 
-***[SONARQUBE & SNYK](https://github.com/CyberFlash-1/Flash028/blob/70554fe1e82751a5f3e00c760da626a09ea3b282/SonarSnyk/SonarSnyk.md)***<br>
+***[Sonarqube & snyk](https://github.com/CyberFlash-1/Flash028/blob/70554fe1e82751a5f3e00c760da626a09ea3b282/SonarSnyk/SonarSnyk.md)***<br>
 ***[Building a SOC + Honeynet](https://github.com/CyberFlash-1/Flash028/blob/70554fe1e82751a5f3e00c760da626a09ea3b282/BUILDING%20A%20SOC/building-a-soc.md)***<br>
 ***[The Great Admin Heist](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Cyber-Threat-Hunt.md)***<br>
 ***[Threat Hunt - Suspicious Activity from Russian-Origin IP ](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)***<br>

@@ -97,9 +97,9 @@
     </td>
         <!-- Enterprise Security Lab -->
 <td align="center" valign="top">
-     <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" height="200" width="320" /><br>
-      <strong>Enterprise Security (ES) </strong></a>
-    <br><sub>Exploring Enterprise Security</sub>
+     <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img src="https://github.com/user-attachments/assets/fd4c7e3b-0ace-4c1d-941d-8c3b7e6cd3af" height="200" width="320" /><br>
+      <strong>SonarQube & Snyk Lab </strong></a>
+    <br><sub>Detecting vulnerabilities in code.</sub>
     </td>
        <tr>
          <table>
@@ -111,7 +111,6 @@
 </div>
 
 
-***[Sonarqube & snyk](https://github.com/CyberFlash-1/Flash028/blob/70554fe1e82751a5f3e00c760da626a09ea3b282/SonarSnyk/SonarSnyk.md)***<br>
 ***[Building a SOC + Honeynet](https://github.com/CyberFlash-1/Flash028/blob/70554fe1e82751a5f3e00c760da626a09ea3b282/BUILDING%20A%20SOC/building-a-soc.md)***<br>
 ***[The Great Admin Heist](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Cyber-Threat-Hunt.md)***<br>
 ***[Threat Hunt - Suspicious Activity from Russian-Origin IP ](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)***<br>

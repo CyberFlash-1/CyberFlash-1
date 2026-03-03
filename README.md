@@ -84,7 +84,28 @@
            <br>
            <br>
 <div align="center">
-  
+
+<div align="Center">
+
+<table>
+  <tr>
+<td align="center" valign="top">
+      <a href="README.md"><img src = "https://github.com/CyberFlash-1/CyberFlash/blob/dced0f5b717c6c2b4a04646b9181f94e566eb2be/Azure.png" height="200"width="320" alt="Sara AI"/>
+      <br>
+      <strong>Azure Cloud Resume</strong></a>
+      <br><sub>Static website hosted on Azure Storage</sub>
+    </td>
+        <!-- Enterprise Security Lab -->
+<td align="center" valign="top">
+     <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" height="200" width="320" /><br>
+      <strong>Enterprise Security (ES) </strong></a>
+    <br><sub>Exploring Enterprise Security</sub>
+    </td>
+       <tr>
+         <table>
+           <br>
+           <br>
+<div align="center">  
 # Additional Projects
 
 </div>

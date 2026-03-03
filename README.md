@@ -106,6 +106,7 @@
            <br>
            <br>
 <div align="center">  
+  
 # Additional Projects
 
 </div>

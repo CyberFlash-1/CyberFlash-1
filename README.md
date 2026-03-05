@@ -93,14 +93,8 @@
 
 <table>
   <tr>
-<td align="center" valign="top">
-      <a href="README.md"><img src = "https://github.com/CyberFlash-1/CyberFlash/blob/dced0f5b717c6c2b4a04646b9181f94e566eb2be/Azure.png" height="200"width="320" alt="Sara AI"/>
-      <br>
-      <strong>Azure Cloud Resume</strong></a>
-      <br><sub>Static website hosted on Azure Storage</sub>
-    </td>
         <!-- Enterprise Security Lab -->
-<td align="center" valign="top">
+  <td width=25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
      <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img src="https://github.com/user-attachments/assets/fd4c7e3b-0ace-4c1d-941d-8c3b7e6cd3af" height="200" width="320" /><br>
       <strong>SonarQube & Snyk Lab </strong></a>
     <br><sub>Detecting vulnerabilities in code.</sub>
@@ -110,7 +104,8 @@
            <br>
            <br>
 <div align="center">  
-  
+
+
 # Additional Projects
 
 </div>

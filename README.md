@@ -79,7 +79,7 @@
     </td>
         <!-- Enterprise Security Lab -->
 <td align="center" valign="top">
-     <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" height="200" width="320" /><br>
+     <a href="https://github.com/CyberFlash-1/Flash028/blob/c9ebd3daf6c11043ae2042bd9f93e8fa68527e82/syslog-ng.md"><img src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" height="200" width="320" /><br>
       <strong>Enterprise Security (ES) </strong></a>
     <br><sub>Exploring Enterprise Security</sub>
     </td>

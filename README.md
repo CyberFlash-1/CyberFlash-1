@@ -100,7 +100,7 @@
     <br><sub>Detecting vulnerabilities in code.</sub>
     </td>
 <td width=25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-     <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img src="https://media.licdn.com/dms/image/v2/D5605AQEBl-H1e0T_Cw/videocover-low/B56ZzEYi9BKUBU-/0/1772821297487?e=1773442800&v=beta&t=e4YYmMGPZuXjLJqxbZ1-Lt-U_UPwwCx2WNb-yHyBMc8" height="200" width="320" /><br>
+     <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img src="https://github.com/user-attachments/assets/fdaab701-4da7-414c-bc70-12e43b666b94" height="200" width="320" /><br>
       <strong>Sylog integration with splunk</strong></a>
     <br><sub>Incorporating Syslog with Splunk Enterprise.</sub>
        <tr>

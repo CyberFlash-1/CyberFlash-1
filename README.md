@@ -55,12 +55,6 @@
       <p style="text-align: justify;">
         The architecture closely follows Splunk Validated Architectures (SVA) recommendations for a single-site indexer cluster with a non-clustered search head — ideal for learning distributed deployments, testing security and observability use cases, building proofs-of-concept, or preparing for Splunk certifications and real-world implementations.
       </p>
-      <p style="text-align: justify;">
-        With the initial manual deployment now complete and fully functional, the focus has shifted to <strong>automation</strong>. The next phase involves scripting and codifying the entire installation, configuration, and cluster setup process — including indexer clustering, peer node bootstrapping, license stacking, deployment server app distribution, universal forwarder onboarding, search head configuration, monitoring console setup, and more. Automation is being implemented using modern infrastructure-as-code practices (Ansible playbooks, Terraform modules, bash/PowerShell scripts, Docker Compose, or similar tools) to enable fast, repeatable, and version-controlled Splunk lab environments.
-      </p>
-      <p style="text-align: justify;">
-        Explore the linked lab guides above for detailed architecture diagrams, step-by-step instructions, configuration files, troubleshooting tips, and the evolving automation code. This project continues to grow — future enhancements may include search head clustering, multi-site replication, SmartStore object storage integration, workload management, and integrations with observability and security platforms.
-      </p>
     </td>
   </tr>
 </table>

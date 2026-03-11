@@ -1,3 +1,4 @@
+
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=140&duration=3500&pause=1200&lines=Khadijah;Cybersecurity+Engineer;Splunk+Architect-in-Training;Threat+Hunting;" />
   </div>
@@ -87,11 +88,6 @@
          <table>
            <br>
            <br>
-<div align="center">
-
-<div align="Center">
-
-<table>
   <tr>
         <!-- Enterprise Security Lab -->
   <td width=25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
@@ -107,6 +103,47 @@
          <table>
            <br>
            <br>
+</div>
+    
+
+  <table width="10%">
+  <tr>
+ <td align="center" valign="top">
+      <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
+        <img src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" width="100%" alt="Unlock the Voice of PDF">
+      </a>
+        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
+    </td>
+ <td align="center" valign="top">
+      <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
+        <img src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" width="100%" alt="Unlock the Voice of PDF">
+      </a>
+        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
+    </td>
+ <td align="center" valign="top">
+      <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
+        <img src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" width="100%" alt="Unlock the Voice of PDF">
+      </a>
+        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
+    </td>
+     <td align="center" valign="top">
+      <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
+        <img src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" width="100%" alt="Unlock the Voice of PDF">
+      </a>
+        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
+    </td>
+
+  </tr>
+</table>
+
+
+
+
+<div align="Center">
+
+
+
+           
 <div align="center">  
 
 

@@ -85,7 +85,7 @@
   <tr>
         <!-- Syslog Lab -->
   <td width=25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-     <a href="https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Splunk/Enterprise%20Security.md"><img src="https://github.com/user-attachments/assets/fd4c7e3b-0ace-4c1d-941d-8c3b7e6cd3af" height="200" width="320" /><br>
+     <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/SonarSnyk/SonarSnyk.md"><img src="https://github.com/user-attachments/assets/fd4c7e3b-0ace-4c1d-941d-8c3b7e6cd3af" height="200" width="320" /><br>
       <strong>SonarQube & Snyk Lab </strong></a>
     <br><sub>Detecting vulnerabilities in code.</sub>
     </td>

@@ -1,4 +1,4 @@
-# Splunk Distributed Lab Automation  
+# Automated Splunk Deployment Home Lab
 ```mermaid
 flowchart LR
 

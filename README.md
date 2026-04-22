@@ -61,7 +61,8 @@
       <a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md"><img src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" height="200"width="320" alt="Sara AI"/>
       <br>
       <strong>Architecting Splunk Lab</strong></a>
-      <br><sub>Scenario based splunk architecture</sub>
+      <br><sub>Scenario based splunk architecture</sub> <br>
+   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=00FFFF"/>
     </td>
         <!-- Enterprise Security Lab -->
 <td align="center" valign="top">
@@ -79,11 +80,18 @@
      <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/SonarSnyk/SonarSnyk.md"><img src="https://github.com/user-attachments/assets/fd4c7e3b-0ace-4c1d-941d-8c3b7e6cd3af" height="200" width="320" /><br>
       <strong>SonarQube & Snyk Lab </strong></a>
     <br><sub>Detecting vulnerabilities in code.</sub>
+    <br>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AppSec-f28c28?style=flat-square&logoColor=white"/>
     </td>
 <td width=25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
      <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/syslog-ng.md"><img src="https://github.com/user-attachments/assets/fdaab701-4da7-414c-bc70-12e43b666b94" height="200" width="320" /><br>
       <strong>Sylog integration with splunk</strong></a>
     <br><sub>Incorporating Syslog with Splunk Enterprise.</sub>
+  <br>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/syslog--ng-4caf50?style=flat-square&logoColor=white"/>
        <tr>
          <table>
            <br>

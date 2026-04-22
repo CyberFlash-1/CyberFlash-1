@@ -1,20 +1,19 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,100:050A0F&height=200&section=header&text=KHADIJAH&fontSize=90&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
+</div>
+
+
 
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=140&duration=3500&pause=1200&lines=Khadijah;Cybersecurity+Engineer;Splunk+Architect-in-Training;Threat+Hunting;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=140&duration=3500&pause=1200&lines=Hello;Welcome+to+My+Github;" />
   </div>
-<div align="center">
-  
-  [![CRITICAL](https://img.shields.io/badge/THREAT-CRITICAL-d93f3c?style=for-the-badge&logo=apache-spark&logoColor=white)](https://github.com/CyberFlash-1)
-  [![HIGH](https://img.shields.io/badge/THREAT-HIGH-f28c28?style=for-the-badge&logo=apache-spark&logoColor=white)](https://github.com/CyberFlash-1)
-  [![MEDIUM](https://img.shields.io/badge/THREAT-MEDIUM-f2c744?style=for-the-badge&logo=apache-spark&logoColor=white)](https://github.com/CyberFlash-1)
-  [![LOW](https://img.shields.io/badge/THREAT-LOW-4caf50?style=for-the-badge&logo=apache-spark&logoColor=white)](https://github.com/CyberFlash-1)
-  [![UNASSIGNED](https://img.shields.io/badge/OPERATOR-UNASSIGNED-8a8a8a?style=for-the-badge&logo=apache-spark&logoColor=white)](https://github.com/CyberFlash-1)
-</div>
+
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhadijahW&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="KhadijahW" style="padding-right:20px;" />
+<img src="https://komarev.com/ghpvc/?username=KhadijahW&label=EYES+ON+TARGET&color=00FFFF&style=for-the-badge" />
+&nbsp;&nbsp;
 </p>
 
 <div align="center">
@@ -41,9 +40,9 @@
   </tr>
   <tr>
   <td colspan="2">
-      <p><strong>Welcome to the Splunk Enterprise Deployment Lab</strong></p>
+      <p><strong>This is my Splunk Enterprise Deployment Lab</strong></p>
       <p style="text-align: justify;">
-        This hands-on lab environment is designed to help you master distributed Splunk architectures by walking through a realistic, production-like deployment. The current setup includes:
+       I created this lab to help me learn about distributed Splunk architectures by walking through a realistic, production-like deployment. The current setup includes:
       </p>
       <ul style="text-align: justify;">
         <li><strong>3 Indexers (iDX)</strong> – forming a clustered indexing tier with data replication and search factor for high availability</li>
@@ -52,9 +51,6 @@
         <li><strong>1 Universal Forwarder (UF)</strong> – lightweight data collection agent for getting data into the Splunk environment</li>
         <li><strong>1 Search Head (SH)</strong> – dedicated instance for searching, reporting, dashboarding, and user interaction</li>
       </ul>
-      <p style="text-align: justify;">
-        The architecture closely follows Splunk Validated Architectures (SVA) recommendations for a single-site indexer cluster with a non-clustered search head — ideal for learning distributed deployments, testing security and observability use cases, building proofs-of-concept, or preparing for Splunk certifications and real-world implementations.
-      </p>
     </td>
   </tr>
 </table>
@@ -170,9 +166,16 @@
 
 </div>
 
-    
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberFlash-1&theme=dracula&hide_border=true&background=0d001a&stroke=00FFFF&ring=00FFFF&fire=FF006E&currStreakNum=00FFFF&sideNums=C0FFFF&dates=C0FFFF" alt="Streak Heatmap" width="420" />
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CyberFlash-1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050A0F&title_color=00FFFF&icon_color=00FFFF&text_color=C8E8F0" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberFlash-1&theme=chartreuse-dark&hide_border=true&background=050A0F&stroke=00FFFF&ring=00FFFF&fire=FF8C42&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=4A7A90" />
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberFlash-1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050A0F&title_color=00FFFF&text_color=C8E8F0" />
+
 </div>
 
 </div>
@@ -181,3 +184,9 @@
 [![CyberFlash-1](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@CyberFlash-1&size=square)](http://youtube.com/@Cyberflash-1)
 [![Khadijah W](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FKhadijah-W-33048518a%2F&subtitle=@Khadijah+W&size=square)](https://www.linkedin.com/in/khadijah-w-44bb48238) 
 
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,100:00FFFF&height=120&section=footer&text=STAY+VIGILANT&fontSize=28&fontColor=050A0F&fontAlignY=75&animation=twinkling"/>
+
+</div>

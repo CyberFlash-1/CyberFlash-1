@@ -51,85 +51,48 @@
     </td>
   </tr>
 </table>
+  <br><br>      
+<div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CyberFlash-1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050A0F&title_color=00FFFF&icon_color=00FFFF&text_color=C8E8F0" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberFlash-1&theme=chartreuse-dark&hide_border=true&background=050A0F&stroke=00FFFF&ring=00FFFF&fire=FF8C42&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=4A7A90" />
 
-<div align="Center">
+<br><br>
 
-<table>
-  <tr>
-<td align="center" valign="top">
-      <a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md"><img src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" height="200"width="320" alt="Sara AI"/>
-      <br>
-      <strong>Architecting Splunk Lab</strong></a>
-      <br><sub>Scenario based splunk architecture</sub> <br>
-   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=00FFFF"/>
-    </td>
-        <!-- Enterprise Security Lab -->
-<td align="center" valign="top">
-     <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/Enterprise%20Security%20Lab.md"><img src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" height="200" width="320" /><br>
-      <strong>Enterprise Security (ES) </strong></a>
-    <br><sub>Exploring Enterprise Security</sub>
-    </td>
-       <tr>
-         <table>
-           <br>
-           <br>
-  <tr>
-        <!-- Syslog Lab -->
-  <td width=25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-     <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/SonarSnyk/SonarSnyk.md"><img src="https://github.com/user-attachments/assets/fd4c7e3b-0ace-4c1d-941d-8c3b7e6cd3af" height="200" width="320" /><br>
-      <strong>SonarQube & Snyk Lab </strong></a>
-    <br><sub>Detecting vulnerabilities in code.</sub>
-    <br>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AppSec-f28c28?style=flat-square&logoColor=white"/>
-    </td>
-<td width=25%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-     <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/syslog-ng.md"><img src="https://github.com/user-attachments/assets/fdaab701-4da7-414c-bc70-12e43b666b94" height="200" width="320" /><br>
-      <strong>Sylog integration with splunk</strong></a>
-    <br><sub>Incorporating Syslog with Splunk Enterprise.</sub>
-  <br>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=00FFFF"/>
-  <img src="https://img.shields.io/badge/syslog--ng-4caf50?style=flat-square&logoColor=white"/>
-       <tr>
-         <table>
-           <br>
-           <br>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberFlash-1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050A0F&title_color=00FFFF&text_color=C8E8F0" />
+
 </div>
-    
+
+<br><br>
 
   <table width="10%">
   <tr>
  <td align="center" valign="top">
-      <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
-        <img src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" width="100%" alt="Unlock the Voice of PDF">
+      <a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md">
+        <img src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" height="200"width="320" alt="Sara AI"/>
       </a>
-        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
+        <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md">Architecting Splunk Lab</b></a></p>
     </td>
  <td align="center" valign="top">
-      <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
-        <img src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" width="100%" alt="Unlock the Voice of PDF">
+     <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/Enterprise%20Security%20Lab.md">
+       <img src="https://github.com/user-attachments/assets/626d48ec-b4ee-498c-9a48-6eb72d99ba52" height="200" width="320" />
       </a>
-        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
+        <p><b> <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/Enterprise%20Security%20Lab.md">Enterprise Security (ES)</b></a></p>
     </td>
  <td align="center" valign="top">
-      <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
-        <img src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" width="100%" alt="Unlock the Voice of PDF">
+      <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/SonarSnyk/SonarSnyk.md"><img src="https://github.com/user-attachments/assets/fd4c7e3b-0ace-4c1d-941d-8c3b7e6cd3af" height="200" width="320" /><br>
       </a>
-        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
+        <p><b> <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/SonarSnyk/SonarSnyk.md">SonarQube & Snyk Lab</b></a></p>
     </td>
      <td align="center" valign="top">
-      <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
-        <img src="https://github.com/user-attachments/assets/426a9aba-5795-4812-b744-20fd9286c162" width="100%" alt="Unlock the Voice of PDF">
-      </a>
-        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
+       <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/syslog-ng.md"><img src="https://github.com/user-attachments/assets/fdaab701-4da7-414c-bc70-12e43b666b94" height="200" width="320" /><br>
+        <p><b> <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/syslog-ng.md">Sylog Integration</b></a></p>
     </td>
 
   </tr>
 </table>
 
-
+<br><br>
 
 
 <div align="Center">

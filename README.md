@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,100:050A0F&height=200&section=header&text=KHADIJAH&fontSize=90&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,100:050A0F&height=200&section=header&text=KHADIJAH&fontSize=150&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
 </div>
 
 
@@ -40,11 +40,8 @@
   </tr>
   <tr>
   <td colspan="2">
-      <p><strong>This is my Splunk Enterprise Deployment Lab</strong></p>
-      <p style="text-align: justify;">
-       I created this lab to help me learn about distributed Splunk architectures by walking through a realistic, production-like deployment. The current setup includes:
-      </p>
       <ul style="text-align: justify;">
+        A compact, production‑style Splunk deployment consisting of:
         <li><strong>3 Indexers (iDX)</strong> – forming a clustered indexing tier with data replication and search factor for high availability</li>
         <li><strong>1 Cluster Manager (CM)</strong> – coordinates the indexer cluster, manages bucket fix-up activities, and enforces replication policies</li>
         <li><strong>1 combined instance</strong> running <strong>Deployment Server (DS)</strong>, <strong>License Manager (LM)</strong>, and <strong>Monitoring Console (MC)</strong> – centralizes forwarder management, licensing, and cluster health/performance monitoring</li>
@@ -54,8 +51,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 <div align="Center">

@@ -33,7 +33,7 @@
     </td>
    <td align="center" valign="top">
       <a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">
-       <img width="100%" alt="image" src="https://github.com/CyberFlash-1/CyberFlash-1/blob/c9af6f5a5ae7ffa5ac2887ed96eb9b747efee2b7/splunk_enterprise_lab_dark%20(1).png" />
+       <img width="80%" height= "100%" alt="image" src="https://github.com/CyberFlash-1/CyberFlash-1/blob/c9af6f5a5ae7ffa5ac2887ed96eb9b747efee2b7/splunk_enterprise_lab_dark%20(1).png" />
       </a>
       <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/29c6f47fc272e8ac3637600900a3324a9e56b65e/Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</b></a></p>
     </td>

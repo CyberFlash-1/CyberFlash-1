@@ -1,0 +1,147 @@
+
+<div style="background:#0f1117;border-radius:12px;padding:16px 8px 20px;">
+<svg width="100%" viewBox="0 0 680 880" role="img">
+  <title>Splunk Enterprise Deployment Lab Architecture - Dark</title>
+  <desc>Dark theme lab architecture with CM, 3 Indexers, all-in-one LM/DS/MC, and 2 Linux UFs</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="340" y="26" text-anchor="middle" style="font-family:var(--font-sans);font-size:15px;font-weight:500;fill:#e2e0d8">Splunk enterprise deployment lab</text>
+
+  <!-- ── CLUSTER MASTER (CM) ── -->
+  <g style="cursor:pointer">
+    <rect x="210" y="40" width="260" height="44" rx="8" fill="#1a3a5c" stroke="#3b82c4" stroke-width="1"/>
+    <text x="340" y="58" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:14px;font-weight:500;fill:#93c5fd">Cluster master (CM)</text>
+    <text x="340" y="76" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:12px;fill:#60a5fa">Manages indexer cluster</text>
+  </g>
+
+  <!-- server.conf CM -->
+  <rect x="180" y="93" width="320" height="100" rx="6" fill="#0d1f30" stroke="#2d5a8e" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <text x="194" y="109" style="font-family:var(--font-mono);font-size:12px;fill:#64748b"># server.conf (CM)</text>
+  <text x="194" y="125" style="font-family:var(--font-mono);font-size:12px;fill:#7dd3fc">[clustering]</text>
+  <text x="194" y="141" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">mode = <tspan fill="#86efac">master</tspan></text>
+  <text x="194" y="157" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">replication_factor = <tspan fill="#86efac">3</tspan>   search_factor = <tspan fill="#86efac">2</tspan></text>
+  <text x="194" y="173" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">pass4SymmKey = <tspan fill="#fbbf24">&lt;your_secret_key&gt;</tspan></text>
+
+  <!-- CM arrow down -->
+  <line x1="340" y1="193" x2="340" y2="222" stroke="#4a6fa5" stroke-width="1" marker-end="url(#arrow)"/>
+  <text x="350" y="211" dominant-baseline="central" style="font-family:var(--font-sans);font-size:11px;fill:#64748b">cluster mgmt</text>
+
+  <!-- ── INDEXERS ── -->
+
+  <!-- IDX1 -->
+  <g style="cursor:pointer">
+    <rect x="18" y="229" width="172" height="44" rx="8" fill="#0f2d2a" stroke="#0d9488" stroke-width="1"/>
+    <text x="104" y="247" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:14px;font-weight:500;fill:#5eead4">Indexer 1</text>
+    <text x="104" y="265" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:12px;fill:#2dd4bf">Stores &amp; indexes</text>
+  </g>
+  <rect x="18" y="282" width="172" height="78" rx="6" fill="#071a18" stroke="#134e4a" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <text x="28" y="297" style="font-family:var(--font-mono);font-size:12px;fill:#64748b"># server.conf</text>
+  <text x="28" y="312" style="font-family:var(--font-mono);font-size:12px;fill:#5eead4">[clustering]</text>
+  <text x="28" y="327" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">mode = <tspan fill="#86efac">peer</tspan></text>
+  <text x="28" y="342" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">manager_uri = <tspan fill="#7dd3fc">cm-host:8089</tspan></text>
+  <text x="28" y="357" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">replicationPort = <tspan fill="#86efac">9887</tspan></text>
+
+  <!-- IDX2 -->
+  <g style="cursor:pointer">
+    <rect x="254" y="229" width="172" height="44" rx="8" fill="#0f2d2a" stroke="#0d9488" stroke-width="1"/>
+    <text x="340" y="247" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:14px;font-weight:500;fill:#5eead4">Indexer 2</text>
+    <text x="340" y="265" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:12px;fill:#2dd4bf">Stores &amp; indexes</text>
+  </g>
+  <rect x="254" y="282" width="172" height="78" rx="6" fill="#071a18" stroke="#134e4a" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <text x="264" y="297" style="font-family:var(--font-mono);font-size:12px;fill:#64748b"># server.conf</text>
+  <text x="264" y="312" style="font-family:var(--font-mono);font-size:12px;fill:#5eead4">[clustering]</text>
+  <text x="264" y="327" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">mode = <tspan fill="#86efac">peer</tspan></text>
+  <text x="264" y="342" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">manager_uri = <tspan fill="#7dd3fc">cm-host:8089</tspan></text>
+  <text x="264" y="357" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">replicationPort = <tspan fill="#86efac">9887</tspan></text>
+
+  <!-- IDX3 -->
+  <g style="cursor:pointer">
+    <rect x="490" y="229" width="172" height="44" rx="8" fill="#0f2d2a" stroke="#0d9488" stroke-width="1"/>
+    <text x="576" y="247" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:14px;font-weight:500;fill:#5eead4">Indexer 3</text>
+    <text x="576" y="265" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:12px;fill:#2dd4bf">Stores &amp; indexes</text>
+  </g>
+  <rect x="490" y="282" width="172" height="78" rx="6" fill="#071a18" stroke="#134e4a" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <text x="500" y="297" style="font-family:var(--font-mono);font-size:12px;fill:#64748b"># server.conf</text>
+  <text x="500" y="312" style="font-family:var(--font-mono);font-size:12px;fill:#5eead4">[clustering]</text>
+  <text x="500" y="327" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">mode = <tspan fill="#86efac">peer</tspan></text>
+  <text x="500" y="342" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">manager_uri = <tspan fill="#7dd3fc">cm-host:8089</tspan></text>
+  <text x="500" y="357" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">replicationPort = <tspan fill="#86efac">9887</tspan></text>
+
+  <!-- CM to IDX lines -->
+  <path d="M270 193 L104 229" fill="none" stroke="#2d5a8e" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="340" y1="193" x2="340" y2="229" fill="none" stroke="#2d5a8e" stroke-width="1"/>
+  <path d="M410 193 L576 229" fill="none" stroke="#2d5a8e" stroke-width="1" marker-end="url(#arrow)"/>
+
+  <!-- ── LM / DS / MC ── -->
+  <g style="cursor:pointer">
+    <rect x="175" y="425" width="330" height="44" rx="8" fill="#1e1040" stroke="#7c3aed" stroke-width="1"/>
+    <text x="340" y="443" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:14px;font-weight:500;fill:#c4b5fd">All-in-one: LM · DS · MC</text>
+    <text x="340" y="461" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:12px;fill:#a78bfa">License master · Deployment server · Monitoring console</text>
+  </g>
+
+  <!-- serverclass.conf -->
+  <rect x="175" y="478" width="330" height="88" rx="6" fill="#110a2a" stroke="#4c1d95" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <text x="188" y="494" style="font-family:var(--font-mono);font-size:12px;fill:#64748b"># serverclass.conf (DS)</text>
+  <text x="188" y="510" style="font-family:var(--font-mono);font-size:12px;fill:#c4b5fd">[serverClass:Linux_UFs]</text>
+  <text x="188" y="526" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">whitelist.0 = <tspan fill="#86efac">*linux*</tspan></text>
+  <text x="188" y="542" style="font-family:var(--font-mono);font-size:12px;fill:#c4b5fd">[serverClass:Linux_UFs:app:TA-linux]</text>
+  <text x="188" y="558" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">stateOnClient = <tspan fill="#86efac">enabled</tspan></text>
+
+  <!-- LM_DS_MC ↔ CM dashed -->
+  <path d="M310 425 L290 193" fill="none" stroke="#5b3fa0" stroke-width="1" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
+  <text x="286" y="312" dominant-baseline="central" style="font-family:var(--font-sans);font-size:11px;fill:#64748b">license</text>
+
+  <!-- LM_DS_MC ↔ IDX dashed -->
+  <path d="M195 425 L104 362" fill="none" stroke="#5b3fa0" stroke-width="1" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
+  <path d="M485 425 L576 362" fill="none" stroke="#5b3fa0" stroke-width="1" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
+
+  <!-- ── UNIVERSAL FORWARDERS ── -->
+
+  <!-- UF1 -->
+  <g style="cursor:pointer">
+    <rect x="50" y="672" width="200" height="44" rx="8" fill="#0f2a10" stroke="#16a34a" stroke-width="1"/>
+    <text x="150" y="690" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:14px;font-weight:500;fill:#86efac">UF — Linux host 1</text>
+    <text x="150" y="708" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:12px;fill:#4ade80">Universal forwarder</text>
+  </g>
+  <rect x="32" y="725" width="236" height="72" rx="6" fill="#071509" stroke="#14532d" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <text x="44" y="741" style="font-family:var(--font-mono);font-size:12px;fill:#64748b"># deploymentclient.conf</text>
+  <text x="44" y="757" style="font-family:var(--font-mono);font-size:12px;fill:#86efac">[deployment-client]</text>
+  <text x="44" y="773" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">targetUri = <tspan fill="#7dd3fc">ds-host:8089</tspan></text>
+  <text x="44" y="789" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">phoneHomeIntervalInSecs = <tspan fill="#86efac">60</tspan></text>
+
+  <!-- UF2 -->
+  <g style="cursor:pointer">
+    <rect x="430" y="672" width="200" height="44" rx="8" fill="#0f2a10" stroke="#16a34a" stroke-width="1"/>
+    <text x="530" y="690" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:14px;font-weight:500;fill:#86efac">UF — Linux host 2</text>
+    <text x="530" y="708" text-anchor="middle" dominant-baseline="central" style="font-family:var(--font-sans);font-size:12px;fill:#4ade80">Universal forwarder</text>
+  </g>
+  <rect x="412" y="725" width="236" height="72" rx="6" fill="#071509" stroke="#14532d" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <text x="424" y="741" style="font-family:var(--font-mono);font-size:12px;fill:#64748b"># deploymentclient.conf</text>
+  <text x="424" y="757" style="font-family:var(--font-mono);font-size:12px;fill:#86efac">[deployment-client]</text>
+  <text x="424" y="773" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">targetUri = <tspan fill="#7dd3fc">ds-host:8089</tspan></text>
+  <text x="424" y="789" style="font-family:var(--font-mono);font-size:12px;fill:#e2e8f0">phoneHomeIntervalInSecs = <tspan fill="#86efac">60</tspan></text>
+
+  <!-- UF → DS dashed -->
+  <path d="M150 672 L270 566" fill="none" stroke="#2d6a3f" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+  <path d="M530 672 L415 566" fill="none" stroke="#2d6a3f" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+
+  <!-- UF → IDX data forwarding -->
+  <path d="M150 672 L104 362" fill="none" stroke="#2d6a3f" stroke-width="1" marker-end="url(#arrow)"/>
+  <path d="M530 672 L576 362" fill="none" stroke="#2d6a3f" stroke-width="1" marker-end="url(#arrow)"/>
+
+  <!-- ── LEGEND ── -->
+  <rect x="40" y="816" width="600" height="52" rx="8" fill="#131720" stroke="#2a2f3d" stroke-width="0.5"/>
+  <line x1="60" y1="836" x2="90" y2="836" stroke="#4a6fa5" stroke-width="1" marker-end="url(#arrow)"/>
+  <text x="96" y="840" style="font-family:var(--font-sans);font-size:12px;fill:#94a3b8">Data forwarding</text>
+  <line x1="240" y1="836" x2="270" y2="836" stroke="#4a6fa5" stroke-width="1" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
+  <text x="276" y="840" style="font-family:var(--font-sans);font-size:12px;fill:#94a3b8">Management / config</text>
+  <rect x="440" y="829" width="10" height="10" rx="2" fill="none" stroke="#4a6fa5" stroke-width="0.5" stroke-dasharray="3 2"/>
+  <text x="456" y="840" style="font-family:var(--font-sans);font-size:12px;fill:#94a3b8">Config snippet</text>
+  <text x="340" y="858" text-anchor="middle" style="font-family:var(--font-sans);font-size:11px;fill:#475569">pass4SymmKey must match on CM and all indexers for cluster auth</text>
+</svg>
+</div>

@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=140&duration=3500&pause=1200&lines=Welcome+to+My+Github;" />
   </div>
 
-
 </div>
 
 <p align="center">
@@ -17,6 +16,8 @@
 </p>
 
 <div align="center">
+  
+--- 
   
 # Featured Projects
 
@@ -54,12 +55,10 @@
   <br><br>      
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CyberFlash-1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050A0F&title_color=00FFFF&icon_color=00FFFF&text_color=C8E8F0" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberFlash-1&theme=chartreuse-dark&hide_border=true&background=050A0F&stroke=00FFFF&ring=00FFFF&fire=FF8C42&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=4A7A90" />
+
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberFlash-1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050A0F&title_color=00FFFF&text_color=C8E8F0" />
 
 </div>
 
@@ -86,13 +85,13 @@
     </td>
      <td align="center" valign="top">
        <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/syslog-ng.md"><img src="https://github.com/user-attachments/assets/fdaab701-4da7-414c-bc70-12e43b666b94" height="200" width="320" /><br>
-        <p><b> <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/syslog-ng.md">Sylog Integration</b></a></p>
+        <p><b> <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/syslog-ng.md">Syslog Integration</b></a></p>
     </td>
 
   </tr>
 </table>
 
-<br><br>
+<br>
 
 
 <div align="Center">
@@ -103,7 +102,7 @@
 <div align="center">  
 
 
-# Additional Projects
+## Additional Projects
 
 </div>
 
@@ -140,7 +139,7 @@
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberFlash-1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050A0F&title_color=00FFFF&text_color=C8E8F0" />
+
 
 </div>
 

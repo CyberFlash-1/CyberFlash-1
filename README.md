@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,200:050A0F&height=100&section=header&text=KHADIJAH&fontSize=100&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,200:050A0F&height=250&section=header&text=KHADIJAH&fontSize=100&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
 </div>
 
 

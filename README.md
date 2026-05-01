@@ -124,6 +124,7 @@
 ***[Metasploit / Metasploitable2 Lab](https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md)***<br>
 ***[Meow](https://github.com/khadijahW/Flash028/blob/b3fee9ae5c337358f4d7f0f508a2ee7d3b90969a/HTB/Meow.md)***<br>
 ***[Fawn](https://github.com/khadijahW/Flash028/blob/ebb244e076c7ee58bd544c8cbf1c9b14380715a3/HTB/FAWN.md)***<br>
+
 ---
 
 
@@ -134,14 +135,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CyberFlash-1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050A0F&title_color=00FFFF&icon_color=00FFFF&text_color=C8E8F0" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberFlash-1&theme=chartreuse-dark&hide_border=true&background=050A0F&stroke=00FFFF&ring=00FFFF&fire=FF8C42&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=4A7A90" />
 
 <br><br>
 
 
 
-</div>
 
 </div>
 <h1 align="center">

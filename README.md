@@ -103,29 +103,33 @@
 
 
 ## Additional Projects
-
-</div>
-
-
 ***[Building a SOC + Honeynet](https://github.com/CyberFlash-1/Flash028/blob/70554fe1e82751a5f3e00c760da626a09ea3b282/BUILDING%20A%20SOC/building-a-soc.md)***<br>
 ***[The Great Admin Heist](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Cyber-Threat-Hunt.md)***<br>
-***[Threat Hunt - Suspicious Activity from Russian-Origin IP ](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)***<br>
+***[Threat Hunt - Suspicious Activity from Russian-Origin IP](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)***<br>
 ***[Threat Hunt: AzureBreach](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Threat-Hunt-Report.md)***<br>
-***[Threat Hunt : The Adversary](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Threat-report-Adversary.md)***<br>
+***[Threat Hunt: The Adversary](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Threat-report-Adversary.md)***<br>
+
 ---
+
 ***[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)***<br>
 ***[CyberArk Privileged Access Management](https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md)***<br>
 ***[SailPoint IdentityNow Setup](https://github.com/khadijahW/Flash028/blob/aa96b8fcbe23d3048199ce38eaf18f5fb9c17ab1/Sailpoint-setup.md)***<br>
 ***[Active Directory Lab](https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md)***<br>
-----
+
+---
+
 ***[Splunk Corelight / Suricata (BOTS)](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)***<br>
 ***[Splunk + Atomic Red Team](https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md)***<br>
-----
+
+---
+
 ***[Metasploit / Metasploitable2 Lab](https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md)***<br>
 ***[Meow](https://github.com/khadijahW/Flash028/blob/b3fee9ae5c337358f4d7f0f508a2ee7d3b90969a/HTB/Meow.md)***<br>
 ***[Fawn](https://github.com/khadijahW/Flash028/blob/ebb244e076c7ee58bd544c8cbf1c9b14380715a3/HTB/FAWN.md)***<br>
 
----
+
+
+
 
 
 </div>

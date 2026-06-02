@@ -117,6 +117,7 @@
 
 ---
 ***[Splunk Universal Forwarder Input Optimization](https://github.com/CyberFlash-1/CyberFlash-1/blob/2e9bc9b6001727bec0d3aab62fc1e29b73642f46/Input%20Optimization.md)***<br>
+***[Splunk LDAP](https://github.com/CyberFlash-1/Flash028/blob/8eceada4aee5e7b8580366e61c33140360499392/Splunk/Splunk_LDAP.md)***<br>
 ***[Splunk Corelight / Suricata (BOTS)](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)***<br>
 ***[Splunk + Atomic Red Team](https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md)***<br>
 

@@ -27,12 +27,14 @@
   <table width="10%">
   <tr>
   <td align="center" valign="top">
-      <a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/365b82cae060fe4233417d0d0e123d99bb6d7e50/Splunk%20Enterprise%20Deployment%20Lab.md"><hello>
+       <a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md">
+        <img src="https://github.com/user-attachments/assets/fbd3df8f-0956-4647-85eb-7ce56d28f453" height="250"width="500" alt="Sara AI"/>
       </a>
         <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
     </td>
    <td align="center" valign="top">
       <a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">
+        <img src="https://github.com/user-attachments/assets/f9e63701-5a25-4fb0-bc4d-adbb67be49fa" height="250"width="500" alt="Sara AI"/>
       </a>
       <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/29c6f47fc272e8ac3637600900a3324a9e56b65e/Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</b></a></p>
     </td>
@@ -52,9 +54,6 @@
 </table>
 
 <div align="center">
-
-
-
 
 
 </div>
@@ -87,8 +86,6 @@
 
   </tr>
 </table>
-
-<br>
 
 
 

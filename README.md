@@ -91,8 +91,6 @@
 ### APPLICATION SECURITY
 ***[SONARQUBE](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/APP-SEC/SONARQUBE/SONARQUBE.md)***<br>
 ***[SNYK](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/APP-SEC/SNYK.md)***<br>
-### CLOUD PROJECT
-***[Azure Resume](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/CLOUD-PROJECTS/Azure-Resume/AzureResume.md)***<br>
 ### DETECTION ENGINEERING
 ***[Brute Force Triage](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/DETECTION-ENGINEERING/Splunk/playbook/brute-force-triage.md)***<br>
 ### IDENTITY
@@ -102,6 +100,7 @@
 ***[Active Directory Lab](https://github.com/CyberFlash-1/Hunting/blob/eab9fc3a280ff3e6d34f151996c4b27a6db9e796/Active%20Directory.md)***<br>
 ### MICROSOFT SENTINEL
 ***[Building a SOC + Honeynet](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/MICROSOFT-SENTINEL/SENTINEL-SOC.md)***<br>
+***[Azure Resume](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/CLOUD-PROJECTS/Azure-Resume/AzureResume.md)***<br>
 ***[The Great Admin Heist](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Cyber-Threat-Hunt.md)***<br>
 ***[Threat Hunt - Suspicious Activity from Russian-Origin IP](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)***<br>
 ***[Threat Hunt: AzureBreach](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Threat-Hunt-Report.md)***<br>
@@ -113,7 +112,7 @@
 ***[Splunk + Atomic Red Team](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/HUNTING/Splunk%20%2B%20Atomic%20Red%20Team%20Lab.md)***<br>
 ***[Syslog](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/ENTERPRISE%20DEPLOYMENT/syslog-ng.md)***<br>
 ***[SPLUNK BOTS](https://github.com/CyberFlash-1/Hunting/blob/eab9fc3a280ff3e6d34f151996c4b27a6db9e796/BOTS.md)***<br>
-### SPLUNK CLOUD
+***SPLUNK CLOUD*** <br>
 ***[Adding Indexes](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/SPLUNK%20CLOUD/Add%20indexes%20to%20your%20Splunk%20Cloud%20indexers.md)***<br>
 ***[Managing Users & Roles](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/SPLUNK%20CLOUD/Manage%20Users%20and%20Roles.md)***<br>
 ***[Splunk Cloud LDAP Configuration & User Mapping](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/SPLUNK%20CLOUD/Splunk%20Cloud%20LDAP%20Configuration%20and%20User%20Mapping%20Lab.md)***<br>

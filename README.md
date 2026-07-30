@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,200:050A0F&height=250&section=header&text=KHADIJAH&fontSize=50&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,200:050A0F&height=250&section=header&text=Cyberflash&fontSize=50&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
 </div>
 
 
@@ -50,7 +50,7 @@
     </td>
   </tr>
 </table>
-  <br><br>      
+
 <div align="center">
 
 
@@ -59,7 +59,7 @@
 
 </div>
 
-<br><br>
+
 
   <table width="10%">
   <tr>
@@ -91,40 +91,44 @@
 <br>
 
 
-<div align="Center">
 
 
+## APPLICATION SECURITY
+***[SONARQUBE](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/APP-SEC/SONARQUBE/SONARQUBE.md)***<br>
+***[SNYK](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/APP-SEC/SNYK.md)***<br>
+## CLOUD PROJECT
+***[Azure Resume](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/CLOUD-PROJECTS/Azure-Resume/AzureResume.md)***<br>
 
-           
-<div align="center">  
+## DETECTION ENGINEERING
+***[Brute Force Triage](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/DETECTION-ENGINEERING/Splunk/playbook/brute-force-triage.md)***<br>
 
+## IDENTITY
+***[CyberArk](https://github.com/CyberFlash-1/SecEng/blob/9f11069d607a42b51075e4701ee9fba23671aa49/IDENTITY/CYBERARK/Cyberark-installation.md)***<br>
+***[Okta](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/IDENTITY/OKTA/Okta.md)***<br>
+***[SailpointIdentity-IQ](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/IDENTITY/SAILPOINT/sailpoint.md)***<br>
+***[Active Directory Lab](https://github.com/CyberFlash-1/Hunting/blob/eab9fc3a280ff3e6d34f151996c4b27a6db9e796/Active%20Directory.md)***<br>
 
-## Additional Projects
-***[Building a SOC + Honeynet](https://github.com/CyberFlash-1/Flash028/blob/70554fe1e82751a5f3e00c760da626a09ea3b282/BUILDING%20A%20SOC/building-a-soc.md)***<br>
+## MICROSOFT SENTINEL
+***[Building a SOC + Honeynet](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/MICROSOFT-SENTINEL/SENTINEL-SOC.md)***<br>
 ***[The Great Admin Heist](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Cyber-Threat-Hunt.md)***<br>
 ***[Threat Hunt - Suspicious Activity from Russian-Origin IP](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Hunt%20Report%3A%20Suspicious%20Activity%20from%20Russian-%20IP.md)***<br>
 ***[Threat Hunt: AzureBreach](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Threat-Hunt-Report.md)***<br>
 ***[Threat Hunt: The Adversary](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Threat-report-Adversary.md)***<br>
 
----
-
-***[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)***<br>
-***[CyberArk Privileged Access Management](https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md)***<br>
-***[SailPoint IdentityNow Setup](https://github.com/khadijahW/Flash028/blob/aa96b8fcbe23d3048199ce38eaf18f5fb9c17ab1/Sailpoint-setup.md)***<br>
-***[Active Directory Lab](https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md)***<br>
-
----
+## SPLUNK
 ***[Splunk Universal Forwarder Input Optimization](https://github.com/CyberFlash-1/CyberFlash-1/blob/2e9bc9b6001727bec0d3aab62fc1e29b73642f46/Input%20Optimization.md)***<br>
 ***[Splunk LDAP](https://github.com/CyberFlash-1/Flash028/blob/8eceada4aee5e7b8580366e61c33140360499392/Splunk/Splunk_LDAP.md)***<br>
 ***[Splunk Corelight / Suricata (BOTS)](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)***<br>
-***[Splunk + Atomic Red Team](https://github.com/khadijahW/Flash028/blob/103aced0fa2de88d497b6db8f6f6e77ac292f87c/Splunk/Splunk.md)***<br>
-
----
-
-***[Metasploit / Metasploit2 Lab](https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md)***<br>
-***[Meow](https://github.com/khadijahW/Flash028/blob/b3fee9ae5c337358f4d7f0f508a2ee7d3b90969a/HTB/Meow.md)***<br>
-***[Fawn](https://github.com/khadijahW/Flash028/blob/ebb244e076c7ee58bd544c8cbf1c9b14380715a3/HTB/FAWN.md)***<br>
-
+***[Splunk + Atomic Red Team](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/HUNTING/Splunk%20%2B%20Atomic%20Red%20Team%20Lab.md)***<br>
+***[Syslog](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/ENTERPRISE%20DEPLOYMENT/syslog-ng.md)***<br>
+***[SPLUNK BOTS](https://github.com/CyberFlash-1/Hunting/blob/eab9fc3a280ff3e6d34f151996c4b27a6db9e796/BOTS.md)***<br>
+## SPLUNK CLOUD
+***[Adding Indexes](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/SPLUNK%20CLOUD/Add%20indexes%20to%20your%20Splunk%20Cloud%20indexers.md)***<br>
+***[Managing Users & Roles](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/SPLUNK%20CLOUD/Manage%20Users%20and%20Roles.md)***<br>
+***[Splunk Cloud LDAP Configuration & User Mapping](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/SPLUNK%20CLOUD/Splunk%20Cloud%20LDAP%20Configuration%20and%20User%20Mapping%20Lab.md)***<br>
+## VULNERABILITY MANAGEMENT
+***[Vulnerability Assessment](https://github.com/CyberFlash1/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Vulnerability%20Assessment/Vulnerability.Assessment.md)***<br>
+***[STIGs](https://github.com/CyberFlash-1/Hunting/blob/eab9fc3a280ff3e6d34f151996c4b27a6db9e796/Tenable/STIG%20Remediation.md)***<br>
 
 
 

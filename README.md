@@ -113,7 +113,7 @@
 ***[Splunk + Atomic Red Team](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/HUNTING/Splunk%20%2B%20Atomic%20Red%20Team%20Lab.md)***<br>
 ***[Syslog](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/ENTERPRISE%20DEPLOYMENT/syslog-ng.md)***<br>
 ***[SPLUNK BOTS](https://github.com/CyberFlash-1/Hunting/blob/eab9fc3a280ff3e6d34f151996c4b27a6db9e796/BOTS.md)***<br>
-***SPLUNK CLOUD*** <br>
+***Splunk Cloud*** <br>
 ***[Adding Indexes](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/SPLUNK%20CLOUD/Add%20indexes%20to%20your%20Splunk%20Cloud%20indexers.md)***<br>
 ***[Managing Users & Roles](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/SPLUNK%20CLOUD/Manage%20Users%20and%20Roles.md)***<br>
 ***[Splunk Cloud LDAP Configuration & User Mapping](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/SPLUNK%20CLOUD/Splunk%20Cloud%20LDAP%20Configuration%20and%20User%20Mapping%20Lab.md)***<br>

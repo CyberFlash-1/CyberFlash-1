@@ -97,7 +97,7 @@
 ### IDENTITY
 ***[CyberArk](https://github.com/CyberFlash-1/SecEng/blob/9f11069d607a42b51075e4701ee9fba23671aa49/IDENTITY/CYBERARK/Cyberark-installation.md)***<br>
 ***[Okta](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/IDENTITY/OKTA/Okta.md)***<br>
-***[SailpointIdentity-IQ](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/IDENTITY/SAILPOINT/sailpoint.md)***<br>
+***[SailpointIdentity-IQ](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/IDENTITY/SAILPOINT/sailpoint.md)*** ([SailPoint Installation Video](https://youtu.be/_3PzurBS2Ok))<br>
 ***[Active Directory Lab](https://github.com/CyberFlash-1/Hunting/blob/eab9fc3a280ff3e6d34f151996c4b27a6db9e796/Active%20Directory.md)***<br>
 ### MICROSOFT SENTINEL
 ***[Building a SOC + Honeynet](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/MICROSOFT-SENTINEL/SENTINEL-SOC.md)***<br>

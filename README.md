@@ -100,6 +100,7 @@
 ***[SailpointIdentity-IQ](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/IDENTITY/SAILPOINT/sailpoint.md)*** ([SailPoint Installation Video](https://youtu.be/_3PzurBS2Ok))<br>
 ***[Active Directory Lab](https://github.com/CyberFlash-1/Hunting/blob/eab9fc3a280ff3e6d34f151996c4b27a6db9e796/Active%20Directory.md)***<br>
 ### MICROSOFT SENTINEL
+***[RAG BOT](https://github.com/CyberFlash-1/SecEng/blob/a95f3ebf9f16c9957c31672feb4c286c2120793b/MICROSOFT-SENTINEL/Secure%20Enterprise%20RAG%20Helpdesk%20Chatbot.md)***<br>
 ***[Building a SOC + Honeynet](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/MICROSOFT-SENTINEL/SENTINEL-SOC.md)***<br>
 ***[Azure Resume](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/CLOUD-PROJECTS/Azure-Resume/AzureResume.md)***<br>
 ***[The Great Admin Heist](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Cyber-Threat-Hunt.md)***<br>

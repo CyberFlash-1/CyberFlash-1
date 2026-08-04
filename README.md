@@ -108,7 +108,7 @@
 ***[Threat Hunt: The Adversary](https://github.com/CyberFlash-1/Flash028/blob/6a5177cbd41fbdc9df1713e73aabf4fc37e4b606/Threat-report-Adversary.md)***<br>
 ### SPLUNK
 ***[Splunk Universal Forwarder Input Optimization](https://github.com/CyberFlash-1/CyberFlash-1/blob/2e9bc9b6001727bec0d3aab62fc1e29b73642f46/Input%20Optimization.md)***<br>
-***[Splunk LDAP](https://github.com/CyberFlash-1/Flash028/blob/8eceada4aee5e7b8580366e61c33140360499392/Splunk/Splunk_LDAP.md)***<br>
+***[Splunk LDAP](https://github.com/CyberFlash-1/SecEng/blob/042673e56a25b12a128210fdd4a849b8d7276013/SPLUNK/SPLUNK%20ENTERPRISE/Splunk_LDAP.md)***<br>
 ***[Splunk Corelight / Suricata (BOTS)](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)***<br>
 ***[Splunk + Atomic Red Team](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/HUNTING/Splunk%20%2B%20Atomic%20Red%20Team%20Lab.md)***<br>
 ***[Syslog](https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/ENTERPRISE%20DEPLOYMENT/syslog-ng.md)***<br>

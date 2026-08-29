@@ -20,34 +20,6 @@
 </div>
     
 
-  <table width="10%">
-  <tr>
-  <td align="center" valign="top">
-       <a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md">
-        <img src="https://github.com/user-attachments/assets/fbd3df8f-0956-4647-85eb-7ce56d28f453" height="250"width="500" alt="Sara AI"/>
-      </a>
-        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/bd123e271f12cac91b9ba1367161837e9e4d02e4/Automated%20Splunk%20Deployment%20Lab.md">Automated Splunk Enterprise Deployment Lab</b></a></p>
-    </td>
-   <td align="center" valign="top">
-      <a href="https://github.com/CyberFlash-1/Flash028/blob/7a5c390e8b7d21e4970cd59aafc8ac83d7735501/Splunk/Architecting%20Splunk%20Scenario.md">
-        <img src="https://github.com/user-attachments/assets/f9e63701-5a25-4fb0-bc4d-adbb67be49fa" height="250"width="500" alt="Sara AI"/>
-      </a>
-      <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/29c6f47fc272e8ac3637600900a3324a9e56b65e/Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</b></a></p>
-    </td>
-  </tr>
-  <tr>
-  <td colspan="2">
-      <ul style="text-align: justify;">
-        A compact, production‑style Splunk deployment consisting of:
-        <li><strong>3 Indexers (iDX)</strong> – forming a clustered indexing tier with data replication and search factor for high availability</li>
-        <li><strong>1 Cluster Manager (CM)</strong> – coordinates the indexer cluster, manages bucket fix-up activities, and enforces replication policies</li>
-        <li><strong>1 combined instance</strong> running <strong>Deployment Server (DS)</strong>, <strong>License Manager (LM)</strong>, and <strong>Monitoring Console (MC)</strong> – centralizes forwarder management, licensing, and cluster health/performance monitoring</li>
-        <li><strong>1 Universal Forwarder (UF)</strong> – lightweight data collection agent for getting data into the Splunk environment</li>
-        <li><strong>1 Search Head (SH)</strong> – dedicated instance for searching, reporting, dashboarding, and user interaction</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 
@@ -60,9 +32,9 @@
   <tr>
  <td align="center" valign="top">
       <a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md">
-        <img src="https://github.com/user-attachments/assets/4e074f47-f6e5-4440-b28a-390f032cdd88" height="200"width="320" alt="Sara AI"/>
+       <img src="https://github.com/user-attachments/assets/f9e63701-5a25-4fb0-bc4d-adbb67be49fa" height="200"width="320" alt="Sara AI"/>
       </a>
-        <p><b><a href="https://github.com/CyberFlash-1/Flash028/blob/62a90b991a411242f2bc13309590c47fe01d1efe/Splunk/Architechting%20Splunk%20Scenario.md">Architecting Splunk Lab</b></a></p>
+        <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/29c6f47fc272e8ac3637600900a3324a9e56b65e/Splunk%20Enterprise%20Deployment%20Lab.md">Splunk Enterprise Deployment Lab</b></a></p>
     </td>
  <td align="center" valign="top">
      <a href="https://github.com/CyberFlash-1/Flash028/blob/79198b518e59120ee0aeb0df3ca570bc5439309a/Splunk/Enterprise%20Security%20Lab.md">

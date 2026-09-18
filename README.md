@@ -22,7 +22,7 @@
 <tr>
 
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<img src="https://logos-world.net/wp-content/uploads/2022/11/Splunk-Emblem.png"/>
+<img src="https://logos-world.net/wp-content/uploads/2022/11/Splunk-Emblem.png" width="100%"/>
 <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/2e9bc9b6001727bec0d3aab62fc1e29b73642f46/Input%20Optimization.md">Splunk Universal Forwarder Input Optimization</a></b></p>
 <p>Tuned forwarder inputs to reduce noise and improve ingestion efficiency.<br/>
 <img src="https://img.shields.io/badge/Splunk-00FFFF?style=flat-square&labelColor=050A0F"/>
@@ -30,7 +30,7 @@
 </td>
 
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-  <img src="https://user-images.githubusercontent.com/112047285/206103812-e5b0c7b1-b8d0-48d6-9d41-9f50b9e5ac8d.png"/>
+<img src="https://user-images.githubusercontent.com/112047285/206103812-e5b0c7b1-b8d0-48d6-9d41-9f50b9e5ac8d.png" width="100%"/>
 <a href="https://github.com/CyberFlash-1/SecEng/blob/042673e56a25b12a128210fdd4a849b8d7276013/SPLUNK/SPLUNK%20ENTERPRISE/Splunk_LDAP.md"></a>
 <p><b><a href="https://github.com/CyberFlash-1/SecEng/blob/042673e56a25b12a128210fdd4a849b8d7276013/SPLUNK/SPLUNK%20ENTERPRISE/Splunk_LDAP.md">Splunk LDAP</a></b></p>
 <p>Configured LDAP authentication for Splunk Enterprise.<br/>
@@ -39,7 +39,7 @@
 </td>
 
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<img src="https://exatel.pl/app/uploads/sites/3/2024/05/SOC-EXATEL-SPLUNK-BOTS.jpg"/>
+<img src="https://exatel.pl/app/uploads/sites/3/2024/05/SOC-EXATEL-SPLUNK-BOTS.jpg" width="100%"/>
 <p><b><a href="https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md">Splunk Corelight / Suricata (BOTS)</a></b></p>
 <p>Analyzed network traffic logs using Corelight and Suricata data sources.<br/>
 <img src="https://img.shields.io/badge/Splunk-00FFFF?style=flat-square&labelColor=050A0F"/> <img src="https://img.shields.io/badge/Suricata-00FFFF?style=flat-square&labelColor=050A0F"/>
@@ -47,7 +47,7 @@
 </td>
 
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<img src="https://miro.medium.com/v2/resize:fit:1024/1*5cgQ575OSysg3kajvXZdJQ.jpeg"/>
+<img src="https://miro.medium.com/v2/resize:fit:1024/1*5cgQ575OSysg3kajvXZdJQ.jpeg" width="100%"/>
 <p><b><a href="https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/HUNTING/Splunk%20%2B%20Atomic%20Red%20Team%20Lab.md">Splunk + Atomic Red Team</a></b></p>
 <p>Simulated adversary techniques and validated detections in Splunk.<br/>
 <img src="https://img.shields.io/badge/Splunk-00FFFF?style=flat-square&labelColor=050A0F"/> <img src="https://img.shields.io/badge/Atomic%20Red%20Team-00FFFF?style=flat-square&labelColor=050A0F"/>
@@ -55,7 +55,7 @@
 </td>
 
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-  <img src="https://isbyr.com/wp-content/uploads/2022/02/logo-syslog.png"/>
+  <img src="https://isbyr.com/wp-content/uploads/2022/02/logo-syslog.png" width="100%"/>
 <p><b><a href="https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/ENTERPRISE%20DEPLOYMENT/syslog-ng.md">Syslog</a></b></p>
 <p>Configured syslog-ng for centralized log forwarding into Splunk.<br/>
 <img src="https://img.shields.io/badge/Splunk-00FFFF?style=flat-square&labelColor=050A0F"/> <img src="https://img.shields.io/badge/Syslog--ng-00FFFF?style=flat-square&labelColor=050A0F"/>
@@ -110,6 +110,13 @@
 </p>
 </td>
 
+<td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<a href="https://github.com/CyberFlash-1/SecEng/blob/a95f3ebf9f16c9957c31672feb4c286c2120793b/SPLUNK/ENTERPRISE%20DEPLOYMENT/Automated%20Splunk%20Deployment.md"><img src="https://tse3.mm.bing.net/th/id/OIP.z4MTg0Q6MbRsDaaQPyMZXQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="100%"/></a>
+<p><b><a href="https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/SPLUNK/SPLUNK%20CLOUD/Splunk%20Cloud%20LDAP%20Configuration%20and%20User%20Mapping%20Lab.md">Automated Splunk Deployment Home Lab</a></b></p>
+<img src="https://img.shields.io/badge/Splunk%20Cloud-00FFFF?style=flat-square&labelColor=050A0F"/> <img src="https://img.shields.io/badge/LDAP-00FFFF?style=flat-square&labelColor=050A0F"/>
+</p>
+</td>
+
 </tr>
 </tr>
 </tr>
@@ -144,7 +151,7 @@
 </td>
 
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<img src="https://tse1.mm.bing.net/th/id/OIP.hvnOcWjGOKpNAsJeh1-4LwHaD3?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"/>
+<img src="https://tse1.mm.bing.net/th/id/OIP.hvnOcWjGOKpNAsJeh1-4LwHaD3?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"width="100%"/>
 <p><b><a href="https://github.com/CyberFlash-1/SecEng/blob/9f11069d607a42b51075e4701ee9fba23671aa49/IDENTITY/CYBERARK/Cyberark-installation.md">CyberArk</a></b></p>
 <p>Privileged access management install and configuration.<br/>
 <img src="https://img.shields.io/badge/CyberArk-00FFFF?style=flat-square&labelColor=050A0F"/>
@@ -152,7 +159,7 @@
 </td>
 
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<img src="https://tse4.mm.bing.net/th/id/OIP.j-fj6KBKM-s_CSrJ85jzuwHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"/>
+<img src="https://tse4.mm.bing.net/th/id/OIP.j-fj6KBKM-s_CSrJ85jzuwHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"width="100%"/>
 <p><b><a href="https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/IDENTITY/OKTA/Okta.md">Okta</a></b></p>
 <p>Identity provider configuration and SSO setup.<br/>
 <img src="https://img.shields.io/badge/Okta-00FFFF?style=flat-square&labelColor=050A0F"/>

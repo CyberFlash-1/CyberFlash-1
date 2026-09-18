@@ -24,7 +24,7 @@
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
 <img src="https://logos-world.net/wp-content/uploads/2022/11/Splunk-Emblem.png" width="100%"/>
 <p><b><a href="https://github.com/CyberFlash-1/CyberFlash-1/blob/2e9bc9b6001727bec0d3aab62fc1e29b73642f46/Input%20Optimization.md">Splunk Universal Forwarder Input Optimization</a></b></p>
-<p>Tuned forwarder inputs to reduce noise and improve ingestion efficiency.<br/>
+<p>Tuned forwarder inputs to reduce noise..<br/>
 <img src="https://img.shields.io/badge/Splunk-00FFFF?style=flat-square&labelColor=050A0F"/>
 </p>
 </td>

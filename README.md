@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,200:050A0F&height=250&section=header&text=Khadijah&fontSize=50&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,200:050A0F&height=250&section=header&text=Cyberflash&fontSize=50&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&height=80&duration=3500&lines=Cybersecurity+Engineer;Breaking+Things+So+You+Don't+Have+To" />
 <br/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FFFF?style=for-the-badge&labelColor=050A0F"/>
-<img src="https://komarev.com/ghpvc/?username=KhadijahW&style=for-the-badge&color=00FFFF&labelColor=050A0F"/>
+<img src="https://komarev.com/ghpvc/?username=Cyberflash-1&style=for-the-badge&color=00FFFF&labelColor=050A0F"/>
 </div>
 
 <br/>

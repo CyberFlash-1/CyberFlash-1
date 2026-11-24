@@ -22,20 +22,21 @@
 > The objective is to demonstrate the ability to design, implement, automate, investigate, and manage security solutions while developing the technical knowledge and operational experience required to support complex enterprise environments.
 
 
-## Elastic
+<div align="center">
+  
+# Featured Project
+</div>
 
-### 🆕 Latest
+### 🆕 Elastic
 
 | Workflow Project | Proof | Purpose | Stack | Status |
 |---|---|---|---|---|
-| [**Identity Offboarding Automation**](https://github.com/EvanHYearwood/nmg-identity-automation) | Discovered 23 orphaned accounts left active for 102 days after HR notifications failed. Built a PowerShell toolkit to detect stale identities, offboard them atomically with rollback, validate bulk HR requests against Active Directory before execution, and generate audit evidence for every account. | PowerShell · Active Directory · Identity Lifecycle · Access Revocation · Audit Logging · Git | ![In Progress](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [**Elastic Security — Multi-Node SIEM & Fleet Server Deployment**](https://github.com/EvanHYearwood/nmg-identity-automation) | Deployed a 3-node Elasticsearch cluster, configured TLS certificates for Elasticsearch, Kibana and Fleet Server, and validated GREEN cluster health and Fleet Server HEALTHY status.	|Enterprise SIEM Infrastructure · Secure Communications · TLS Configuration · Fleet Server Integration · Service Authentication · Cluster Administration| Elasticsearch · Kibana · Elastic Agent · Fleet Server · Docker · Docker Compose · PowerShell · OpenSSL · TLS/SSL · Certificate Management · Service Authentication | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
 
 
 
 
-
-<br/>
 
 <br/>
 <div align="center">

@@ -1,10 +1,39 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,200:050A0F&height=250&section=header&text=Cyberflash&fontSize=50&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&height=80&duration=3500&lines=Cybersecurity+Engineer;Breaking+Things+So+You+Don't+Have+To" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0F,50:00FFFF,200:050A0F&height=250&section=header&text=Khadijah&fontSize=50&fontColor=00FFFF&fontAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&height=80&duration=3500&lines=Cybersecurity+Engineer;@RGNext" />
 <br/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FFFF?style=for-the-badge&labelColor=050A0F"/>
 <img src="https://komarev.com/ghpvc/?username=Cyberflash-1&style=for-the-badge&color=00FFFF&labelColor=050A0F"/>
+  <p align="center">
+  <a href=https://www.linkedin.com/in/khadijah-w-44bb48238">
+    <img src="https://img.shields.io/badge/LinkedIn-Khadijah--W-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 </div>
+
+> **Portfolio Note**
+>
+> The projects featured in this portfolio represent a combination of practical implementations, enterprise-oriented security workflows, and simulated environments developed as part of ongoing technical development and preparation for real-world enterprise deployments.
+>  
+> Some projects are based on technologies, processes, and operational practices utilized in enterprise environments, while others are intentionally designed to simulate live enterprise scenarios, providing a practical environment to develop, test, and refine technical skills before transitioning solutions and workflows into production environments.  
+>  
+> Areas of focus include identity lifecycle management, RBAC design, access governance, privileged access management, SIEM engineering, threat detection, vulnerability management, and integrations across platforms such as Active Directory, Okta, Microsoft Entra ID, Splunk, and Elastic Security.
+>
+> The objective is to demonstrate the ability to design, implement, automate, investigate, and manage security solutions while developing the technical knowledge and operational experience required to support complex enterprise environments.
+
+
+## Elastic
+
+### 🆕 Latest
+
+| Workflow Project | Proof | Purpose | Stack | Status |
+|---|---|---|---|---|
+| [**Identity Offboarding Automation**](https://github.com/EvanHYearwood/nmg-identity-automation) | Discovered 23 orphaned accounts left active for 102 days after HR notifications failed. Built a PowerShell toolkit to detect stale identities, offboard them atomically with rollback, validate bulk HR requests against Active Directory before execution, and generate audit evidence for every account. | PowerShell · Active Directory · Identity Lifecycle · Access Revocation · Audit Logging · Git | ![In Progress](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+
+
+
+
+
 
 <br/>
 

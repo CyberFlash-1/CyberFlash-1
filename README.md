@@ -199,6 +199,7 @@
 </td>
 
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<img src="https://github.com/user-attachments/assets/db7f276e-e070-4578-88d9-090724de1546" width="100%"/></a>
 <p><b><a href="https://github.com/CyberFlash-1/SecEng/blob/a95f3ebf9f16c9957c31672feb4c286c2120793b/MICROSOFT-SENTINEL/Secure%20Enterprise%20RAG%20Helpdesk%20Chatbot.md">RAG Bot</a></b></p>
 <p>Secure enterprise RAG-based helpdesk chatbot.<br/>
 <img src="https://img.shields.io/badge/Azure-00FFFF?style=flat-square&labelColor=050A0F"/> <img src="https://img.shields.io/badge/Sentinel-00FFFF?style=flat-square&labelColor=050A0F"/>
@@ -206,14 +207,16 @@
 </td>
 
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
-<a href="https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/MICROSOFT-SENTINEL/SENTINEL-SOC.md"><img src="https://raw.githubusercontent.com/CyberFlash-1/SecEng/a95f3ebf9f16c9957c31672feb4c286c2120793b/MICROSOFT-SENTINEL/SOC.PNG" width="100%"/></a>
-<p><b><a href="https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/MICROSOFT-SENTINEL/SENTINEL-SOC.md">Building a SOC + Honeynet</a></b></p>
+<a href="https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/MICROSOFT-SENTINEL/SENTINEL-SOC.md">
+<img src="https://raw.githubusercontent.com/CyberFlash-1/SecEng/a95f3ebf9f16c9957c31672feb4c286c2120793b/MICROSOFT-SENTINEL/SOC.PNG" width="100%"/></a>
+<p><b><a href="https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/MICROSOFT-SENTINEL/SENTINEL-SOC.md">Building a SOC </a></b></p>
 <p>Deployed a honeynet and SOC pipeline for live attack detection.<br/>
 <img src="https://img.shields.io/badge/Sentinel-00FFFF?style=flat-square&labelColor=050A0F"/> <img src="https://img.shields.io/badge/Azure-00FFFF?style=flat-square&labelColor=050A0F"/>
 </p>
 </td>
 
 <td width="20%" valign="top" style="padding-top: 20px; padding-bottom: 20px; padding-left: 30px; padding-right: 30px;">
+<img src="https://github.com/user-attachments/assets/d0db8c8a-9d3f-483f-bd97-68cf4c457908" width="100%"/></a>
 <p><b><a href="https://github.com/CyberFlash-1/SecEng/blob/844ac06453a57a62135b4d7f6dcf20878aa24829/CLOUD-PROJECTS/Azure-Resume/AzureResume.md">Azure Resume</a></b></p>
 <p>Cloud resume challenge built on Azure.<br/>
 <img src="https://img.shields.io/badge/Azure-00FFFF?style=flat-square&labelColor=050A0F"/>
